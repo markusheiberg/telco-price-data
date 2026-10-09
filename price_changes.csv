@@ -1,0 +1,378 @@
+changed_on,run_id,country,currency,brand,segment_type,product_type,plan_name,kind,field,old,new,delta,is_campaign
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Pikkujärki,replaced,plan_name,PikkujÃ¤rki,Pikkujärki,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Pikkujärki,replaced,monthly_price_nok,21.99,23.99,2.0,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Pikkujärki,replaced,campaign_price_nok,,21.99,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Pikkujärki,replaced,campaign_months,,12,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Pikkujärki,replaced,binding_months,0,12,12,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Perusjärki,replaced,plan_name,PerusjÃ¤rki,Perusjärki,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Perusjärki,replaced,monthly_price_nok,24.99,26.99,2.0,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Perusjärki,replaced,campaign_price_nok,,24.99,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Perusjärki,replaced,campaign_months,,12,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Perusjärki,replaced,binding_months,0,12,12,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Huippujärki,replaced,plan_name,HuippujÃ¤rki,Huippujärki,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Huippujärki,replaced,monthly_price_nok,37.99,39.99,2.0,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Huippujärki,replaced,campaign_price_nok,,37.99,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Huippujärki,replaced,campaign_months,,12,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Huippujärki,replaced,binding_months,0,12,12,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Arkijärki,replaced,plan_name,ArkijÃ¤rki,Arkijärki,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Arkijärki,replaced,monthly_price_nok,26.99,28.99,2.0,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Arkijärki,replaced,campaign_price_nok,,26.99,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Arkijärki,replaced,campaign_months,,12,,no
+2026-10-08,20261008T050036Z,FI,EUR,Giga Mobiili,consumer,mobile,Arkijärki,replaced,binding_months,0,12,12,no
+2026-10-05,20261005T050008Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,removed,monthly_price_nok,99.0,,,no
+2026-10-04,20261004T050010Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,added,monthly_price_nok,,99.0,,no
+2026-10-03,20261003T050023Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,removed,monthly_price_nok,99.0,,,no
+2026-10-02,20261002T050111Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,429.0,449.0,20.0,yes
+2026-10-02,20261002T050111Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,added,monthly_price_nok,,99.0,,no
+2026-10-02,20261002T050111Z,FI,EUR,Telia,consumer,mobile,Säästö 4G 20M,modified,monthly_price_nok,20.99,21.99,1.0,no
+2026-10-01,20261001T050021Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,399.0,429.0,30.0,yes
+2026-09-30,20260930T050103Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus Viaplay,added,monthly_price_nok,,599.0,,no
+2026-09-30,20260930T050103Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,removed,monthly_price_nok,99.0,,,no
+2026-09-29,20260929T050033Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,379.0,399.0,20.0,yes
+2026-09-28,20260928T050010Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,399.0,379.0,-20.0,yes
+2026-09-27,20260927T050009Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,added,monthly_price_nok,,99.0,,no
+2026-09-26,20260926T050010Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,removed,monthly_price_nok,99.0,,,no
+2026-09-24,20260924T050010Z,NO,NOK,Telenor,consumer,mobile,Ubegrenset Enkel,modified,monthly_price_nok,599.0,619.0,20.0,no
+2026-09-24,20260924T050010Z,NO,NOK,Telenor,consumer,mobile,Fast 5 GB,modified,monthly_price_nok,399.0,419.0,20.0,no
+2026-09-24,20260924T050010Z,NO,NOK,Talkmore,consumer,mobile,Ubegrenset Normal,modified,monthly_price_nok,529.0,549.0,20.0,no
+2026-09-24,20260924T050010Z,NO,NOK,Talkmore,consumer,mobile,Ubegrenset Maksimal,modified,monthly_price_nok,629.0,649.0,20.0,no
+2026-09-24,20260924T050010Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,added,monthly_price_nok,,99.0,,no
+2026-09-22,20260922T050025Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,379.0,399.0,20.0,yes
+2026-09-22,20260922T050025Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,removed,monthly_price_nok,99.0,,,no
+2026-09-20,20260920T050015Z,NO,NOK,ice,consumer,mobile,iceMax med Netflix,added,monthly_price_nok,,449.0,,no
+2026-09-20,20260920T050015Z,NO,NOK,ice,consumer,mobile,iceMax,added,monthly_price_nok,,399.0,,no
+2026-09-20,20260920T050015Z,NO,NOK,ice,consumer,mobile,5 GB,added,monthly_price_nok,,199.0,,no
+2026-09-20,20260920T050015Z,NO,NOK,ice,consumer,mobile,18 GB,added,monthly_price_nok,,299.0,,no
+2026-09-19,20260919T050011Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,added,monthly_price_nok,,99.0,,no
+2026-09-18,20260918T050013Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,399.0,379.0,-20.0,yes
+2026-09-18,20260918T050013Z,DK,DKK,YouSee,consumer,mobile,Fri Data Mobil,added,monthly_price_nok,,299.0,,no
+2026-09-17,20260917T050011Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,removed,monthly_price_nok,99.0,,,no
+2026-09-17,20260917T050011Z,NO,NOK,OneCall,consumer,mobile,Fri data,replaced,plan_name,Fri Data,Fri data,,yes
+2026-09-17,20260917T050011Z,DK,DKK,YouSee,consumer,mobile,Fri Data Mobil,removed,monthly_price_nok,299.0,,,no
+2026-09-15,20260915T050016Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,349.0,399.0,50.0,yes
+2026-09-14,20260914T050011Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,added,monthly_price_nok,,99.0,,no
+2026-09-13,20260913T050010Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,removed,monthly_price_nok,99.0,,,no
+2026-09-12,20260912T050007Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,added,monthly_price_nok,,99.0,,no
+2026-09-11,20260911T050012Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,399.0,349.0,-50.0,yes
+2026-09-09,20260909T050049Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,removed,monthly_price_nok,99.0,,,no
+2026-09-05,20260905T050038Z,NO,NOK,OneCall,consumer,mobile,PrøveKjøp,added,monthly_price_nok,,99.0,,no
+2026-09-04,20260904T050011Z,NO,NOK,OneCall,consumer,mobile,35 GB,added,monthly_price_nok,,379.0,,no
+2026-09-03,20260903T050016Z,NO,NOK,OneCall,consumer,mobile,100 GB,removed,monthly_price_nok,349.0,,,no
+2026-09-02,20260902T050015Z,DK,DKK,YouSee,consumer,mobile,50 GB Mobil,added,monthly_price_nok,,219.0,,no
+2026-09-01,20260901T050008Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,379.0,399.0,20.0,yes
+2026-09-01,20260901T050008Z,DK,DKK,YouSee,consumer,mobile,50 GB Mobil,removed,monthly_price_nok,219.0,,,no
+2026-08-31,20260831T050009Z,NO,NOK,Telia,consumer,mobile,Junior 10 GB,modified,campaign_price_nok,114.0,199.0,85.0,yes
+2026-08-31,20260831T050009Z,NO,NOK,Telia,consumer,mobile,Junior 1 GB,modified,campaign_price_nok,64.0,99.0,35.0,yes
+2026-08-28,20260828T050012Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,249.0,199.0,-50.0,yes
+2026-08-24,20260824T050027Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,399.0,379.0,-20.0,yes
+2026-08-20,20260820T050010Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,379.0,399.0,20.0,yes
+2026-08-17,20260817T050016Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,399.0,379.0,-20.0,yes
+2026-08-17,20260817T050016Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,199.0,249.0,50.0,yes
+2026-08-13,20260813T050011Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,249.0,199.0,-50.0,yes
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,750 Mbit/s,modified,monthly_price_nok,1199.0,1258.0,59.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,750 Mbit/s,modified,campaign_price_nok,1049.0,1099.0,50.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,500 Mbit/s + TV,modified,monthly_price_nok,1496.0,1556.0,60.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,500 Mbit/s + TV,modified,campaign_price_nok,1099.0,1149.0,50.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,500 Mbit/s,modified,monthly_price_nok,1099.0,1158.0,59.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,500 Mbit/s,modified,campaign_price_nok,949.0,999.0,50.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,2500 Mbit/s + TV,modified,monthly_price_nok,1796.0,1856.0,60.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,2500 Mbit/s + TV,modified,campaign_price_nok,1399.0,1449.0,50.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,2500 Mbit/s,modified,monthly_price_nok,1399.0,1458.0,59.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,2500 Mbit/s,modified,campaign_price_nok,1249.0,1299.0,50.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,250 Mbit/s,modified,monthly_price_nok,999.0,1058.0,59.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,250 Mbit/s,modified,campaign_price_nok,849.0,899.0,50.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,100 Mbit/s + TV,modified,monthly_price_nok,1396.0,1456.0,60.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,100 Mbit/s + TV,modified,campaign_price_nok,999.0,1049.0,50.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,100 Mbit/s,modified,monthly_price_nok,899.0,958.0,59.0,no
+2026-08-11,20260811T050009Z,NO,NOK,Telia,consumer,broadband,100 Mbit/s,modified,campaign_price_nok,749.0,799.0,50.0,no
+2026-08-06,20260806T050012Z,DK,DKK,YouSee,consumer,mobile,25 GB Mobil,added,monthly_price_nok,,179.0,,no
+2026-08-05,20260805T050013Z,DK,DKK,YouSee,consumer,mobile,25 GB Mobil,removed,monthly_price_nok,179.0,,,no
+2026-08-04,20260804T050012Z,SE,SEK,Tele2,consumer,mobile,15 GB,added,monthly_price_nok,,329.0,,no
+2026-08-03,20260803T050012Z,SE,SEK,Tele2,consumer,mobile,30 GB,removed,monthly_price_nok,329.0,,,no
+2026-08-02,20260802T050008Z,SE,SEK,Tele2,consumer,mobile,50 GB,removed,monthly_price_nok,329.0,,,no
+2026-08-02,20260802T050008Z,SE,SEK,Tele2,consumer,mobile,30 GB,added,monthly_price_nok,,329.0,,no
+2026-07-25,20260725T050011Z,SE,SEK,Tele2,consumer,mobile,50 GB,added,monthly_price_nok,,329.0,,no
+2026-07-25,20260725T050011Z,SE,SEK,Tele2,consumer,mobile,15 GB,removed,monthly_price_nok,329.0,,,no
+2026-07-24,20260724T050009Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,199.0,249.0,50.0,yes
+2026-07-17,20260717T050013Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,379.0,399.0,20.0,yes
+2026-07-17,20260717T050013Z,SE,SEK,Tele2,consumer,mobile,30 GB,removed,monthly_price_nok,329.0,,,no
+2026-07-17,20260717T050013Z,SE,SEK,Tele2,consumer,mobile,15 GB,added,monthly_price_nok,,329.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Vimla,consumer,mobile,5 GB,added,monthly_price_nok,,120.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Vimla,consumer,mobile,25 GB,added,monthly_price_nok,,260.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Vimla,consumer,mobile,15 GB,added,monthly_price_nok,,210.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Vimla,consumer,mobile,100 GB,added,monthly_price_nok,,370.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Vimla,consumer,mobile,10 GB,added,monthly_price_nok,,170.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Tre,consumer,mobile,Obegränsad surf,added,monthly_price_nok,,429.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Tre,consumer,mobile,6 GB,added,monthly_price_nok,,229.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Tre,consumer,mobile,25 GB,added,monthly_price_nok,,329.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus TV4 Play,added,monthly_price_nok,,599.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,"Obegränsad Plus Netflix, HBO Max, Disney+",added,monthly_price_nok,,699.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus Netflix,added,monthly_price_nok,,629.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus HBO Max,added,monthly_price_nok,,609.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus Disney+,added,monthly_price_nok,,599.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus Amazon Prime,added,monthly_price_nok,,599.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus,added,monthly_price_nok,,569.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,Obegränsad,added,monthly_price_nok,,499.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,"Mobil Rörlig 0,2",added,monthly_price_nok,,129.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,20 GB,added,monthly_price_nok,,399.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telia,consumer,mobile,10 GB,added,monthly_price_nok,,299.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telenor,business,mobile,Obegränsat Premium,added,monthly_price_nok,,599.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telenor,consumer,mobile,Obegränsat Plus,added,monthly_price_nok,,629.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telenor,business,mobile,Obegränsat Plus,added,monthly_price_nok,,499.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telenor,consumer,mobile,Obegränsat,added,monthly_price_nok,,499.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telenor,business,mobile,Obegränsat,added,monthly_price_nok,,449.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telenor,business,mobile,7 GB,added,monthly_price_nok,,329.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telenor,consumer,mobile,25 GB,added,monthly_price_nok,,399.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Telenor,consumer,mobile,10 GB,added,monthly_price_nok,,299.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,added,monthly_price_nok,,519.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,added,monthly_price_nok,,479.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Tele2,consumer,mobile,30 GB,added,monthly_price_nok,,329.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Starlink,consumer,broadband,Roam - Unlimited,added,monthly_price_nok,,1020.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Starlink,consumer,broadband,Roam - 100GB,added,monthly_price_nok,,510.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Starlink,consumer,broadband,Residential - Max,added,monthly_price_nok,,800.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Starlink,consumer,broadband,Residential - 200 Mbps,added,monthly_price_nok,,585.0,,no
+2026-07-16,20260716T133012Z,SE,SEK,Starlink,consumer,broadband,Residential - 100 Mbps,added,monthly_price_nok,,370.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 750/750 Mbps,added,monthly_price_nok,,1159.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 500/500 Mbps,added,monthly_price_nok,,1109.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 250/250 Mbps,added,monthly_price_nok,,999.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 150/150 Mbps,added,monthly_price_nok,,899.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 1000/1000 Mbps,added,monthly_price_nok,,1419.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 35GB,removed,monthly_price_nok,549.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 300GB,removed,monthly_price_nok,1779.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 150GB,removed,monthly_price_nok,1079.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,M2M Total,removed,monthly_price_nok,49.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,IoT Total,removed,monthly_price_nok,20.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,IoT Sensor,removed,monthly_price_nok,5.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,IPT Enbruker,removed,monthly_price_nok,49.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,Bedrift Total,removed,monthly_price_nok,299.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,Bedrift Small,removed,monthly_price_nok,99.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Telenor,business,mobile,Bedrift Frihet Premium,removed,monthly_price_nok,759.0,,,no
+2026-07-16,20260716T133012Z,NO,NOK,Starlink,consumer,broadband,Roam - Unlimited,added,monthly_price_nok,,1065.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Starlink,consumer,broadband,Roam - 100GB,added,monthly_price_nok,,505.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Starlink,consumer,broadband,Residential - Max,added,monthly_price_nok,,850.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Starlink,consumer,broadband,Residential - 200 Mbps,added,monthly_price_nok,,585.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Starlink,consumer,broadband,Residential - 100 Mbps,added,monthly_price_nok,,370.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd Fritid 500/500,added,monthly_price_nok,,949.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd Fritid 100/100,added,monthly_price_nok,,599.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 750/750,added,monthly_price_nok,,1169.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 500/500,added,monthly_price_nok,,1119.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 250/250,added,monthly_price_nok,,1019.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 150/150,added,monthly_price_nok,,919.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 1000/1000,added,monthly_price_nok,,1419.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 750/750 (750/750 Mbps),added,monthly_price_nok,,1169.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 500/500  (500/500 Mbps),added,monthly_price_nok,,1119.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 250/250 (250/250 Mbps),added,monthly_price_nok,,1019.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 150/150 (150/150 Mbps),added,monthly_price_nok,,919.0,,no
+2026-07-16,20260716T133012Z,NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 1000/1000 (1000/1000 Mbps),added,monthly_price_nok,,1419.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Telia,consumer,mobile,Säästö 4G 20M,added,monthly_price_nok,,20.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Telia,consumer,mobile,Rehti Premium,added,monthly_price_nok,,59.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Telia,consumer,mobile,Rehti 5G 600M,added,monthly_price_nok,,44.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Telia,consumer,mobile,Rehti 5G 400M,added,monthly_price_nok,,38.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Telia,consumer,mobile,Rehti 5G 1000M,added,monthly_price_nok,,49.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Telia,consumer,mobile,Rehti 4G 50M,added,monthly_price_nok,,29.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Telia,consumer,mobile,Rehti 4G 150M,added,monthly_price_nok,,32.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Starlink,consumer,broadband,Roam - Unlimited,added,monthly_price_nok,,95.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Starlink,consumer,broadband,Roam - 100GB,added,monthly_price_nok,,45.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Starlink,consumer,broadband,Residential - Max,added,monthly_price_nok,,75.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Starlink,consumer,broadband,Residential - 200 Mbps,added,monthly_price_nok,,55.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Starlink,consumer,broadband,Residential - 100 Mbps,added,monthly_price_nok,,35.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Moi,consumer,mobile,Teho 5G 200,added,monthly_price_nok,,23.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Moi,consumer,mobile,Super 5G 1000,added,monthly_price_nok,,38.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Moi,consumer,mobile,Nopea 5G 450,added,monthly_price_nok,,26.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Moi,consumer,mobile,Kevyt 4G 50,added,monthly_price_nok,,15.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Moi,consumer,mobile,Fiksu 4G 100,added,monthly_price_nok,,21.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Giga Mobiili,consumer,mobile,PikkujÃ¤rki,added,monthly_price_nok,,21.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Giga Mobiili,consumer,mobile,PerusjÃ¤rki,added,monthly_price_nok,,24.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Giga Mobiili,consumer,mobile,HuippujÃ¤rki,added,monthly_price_nok,,37.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Giga Mobiili,consumer,mobile,ArkijÃ¤rki,added,monthly_price_nok,,26.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Elisa,consumer,mobile,Elisa Premium 5.5G Liittymäturva,added,monthly_price_nok,,60.0,,no
+2026-07-16,20260716T133012Z,FI,EUR,Elisa,consumer,mobile,Elisa Mini 10M Liittymäturva,added,monthly_price_nok,,20.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 600M Liittymäturva,added,monthly_price_nok,,45.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 400M Liittymäturva,added,monthly_price_nok,,42.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 1000M Liittymäturva,added,monthly_price_nok,,53.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 20M Liittymäturva,added,monthly_price_nok,,30.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 150M Liittymäturva,added,monthly_price_nok,,35.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus Mini,added,monthly_price_nok,,19.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 5G 600M,added,monthly_price_nok,,45.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 5G 400M,added,monthly_price_nok,,40.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 5G 1000M,added,monthly_price_nok,,50.99,,no
+2026-07-16,20260716T133012Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 20M,added,monthly_price_nok,,30.99,,no
+2026-07-16,20260716T133012Z,DK,DKK,YouSee,consumer,mobile,Fri Data Mobil,added,monthly_price_nok,,299.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,YouSee,consumer,mobile,50 GB Mobil,added,monthly_price_nok,,219.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,YouSee,consumer,mobile,3 Timer + 3 GB,added,monthly_price_nok,,99.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,YouSee,consumer,mobile,25 GB Mobil,added,monthly_price_nok,,179.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,YouSee,consumer,mobile,100 GB Mobil,added,monthly_price_nok,,249.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,Telenor,consumer,mobile,Fri Data + Fri tale,added,monthly_price_nok,,289.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,Telenor,consumer,mobile,80 GB + Fri tale,added,monthly_price_nok,,209.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,Telenor,consumer,mobile,30 GB + Fri tale,added,monthly_price_nok,,169.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,Telenor,consumer,mobile,120 GB + Fri tale,added,monthly_price_nok,,239.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,Starlink,consumer,broadband,Roam - Unlimited,added,monthly_price_nok,,700.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,Starlink,consumer,broadband,Roam - 100GB,added,monthly_price_nok,,330.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,Starlink,consumer,broadband,Residential - Max,added,monthly_price_nok,,530.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,Starlink,consumer,broadband,Residential - 200 Mbps,added,monthly_price_nok,,370.0,,no
+2026-07-16,20260716T133012Z,DK,DKK,Starlink,consumer,broadband,Residential - 100 Mbps,added,monthly_price_nok,,235.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 35GB,added,monthly_price_nok,,549.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 300GB,added,monthly_price_nok,,1779.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 150GB,added,monthly_price_nok,,1079.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,M2M Total,added,monthly_price_nok,,49.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,IoT Total,added,monthly_price_nok,,20.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,IoT Sensor,added,monthly_price_nok,,5.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,IPT Enbruker,added,monthly_price_nok,,49.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,Bedrift Total,added,monthly_price_nok,,299.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,Bedrift Small,added,monthly_price_nok,,99.0,,no
+2026-07-16,20260716T132331Z,NO,NOK,Telenor,business,mobile,Bedrift Frihet Premium,added,monthly_price_nok,,759.0,,no
+2026-07-11,20260711T050010Z,SE,SEK,Telenor,business,mobile,iPhone 17e,removed,monthly_price_nok,729.0,,,no
+2026-07-11,20260711T050010Z,SE,SEK,Telenor,business,mobile,iPhone 17 Pro Max,removed,monthly_price_nok,1009.0,,,no
+2026-07-11,20260711T050010Z,SE,SEK,Telenor,business,mobile,iPhone 17 Pro,removed,monthly_price_nok,929.0,,,no
+2026-07-11,20260711T050010Z,SE,SEK,Telenor,business,mobile,Obegränsat Premium,added,monthly_price_nok,,599.0,,no
+2026-07-11,20260711T050010Z,SE,SEK,Telenor,business,mobile,Obegränsat Plus,added,monthly_price_nok,,499.0,,no
+2026-07-11,20260711T050010Z,SE,SEK,Telenor,business,mobile,Obegränsat,added,monthly_price_nok,,449.0,,no
+2026-07-11,20260711T050010Z,SE,SEK,Telenor,business,mobile,Galaxy S26 Ultra,removed,monthly_price_nok,849.0,,,no
+2026-07-11,20260711T050010Z,SE,SEK,Telenor,business,mobile,7 GB,added,monthly_price_nok,,329.0,,no
+2026-07-11,20260711T050010Z,SE,SEK,Tele2,consumer,mobile,15 GB,removed,monthly_price_nok,329.0,,,no
+2026-07-10,20260710T050053Z,SE,SEK,Telenor,business,mobile,iPhone 17e,added,monthly_price_nok,,729.0,,no
+2026-07-10,20260710T050053Z,SE,SEK,Telenor,business,mobile,iPhone 17 Pro Max,added,monthly_price_nok,,1009.0,,no
+2026-07-10,20260710T050053Z,SE,SEK,Telenor,business,mobile,iPhone 17 Pro,added,monthly_price_nok,,929.0,,no
+2026-07-10,20260710T050053Z,SE,SEK,Telenor,business,mobile,Obegränsat Premium,removed,monthly_price_nok,599.0,,,no
+2026-07-10,20260710T050053Z,SE,SEK,Telenor,business,mobile,Obegränsat Plus,removed,monthly_price_nok,499.0,,,no
+2026-07-10,20260710T050053Z,SE,SEK,Telenor,business,mobile,Obegränsat,removed,monthly_price_nok,449.0,,,no
+2026-07-10,20260710T050053Z,SE,SEK,Telenor,business,mobile,Galaxy S26 Ultra,added,monthly_price_nok,,849.0,,no
+2026-07-10,20260710T050053Z,SE,SEK,Telenor,business,mobile,7 GB,removed,monthly_price_nok,329.0,,,no
+2026-07-10,20260710T050053Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,399.0,379.0,-20.0,yes
+2026-07-10,20260710T050053Z,SE,SEK,Tele2,consumer,mobile,15 GB,added,monthly_price_nok,,329.0,,no
+2026-07-09,20260709T050012Z,SE,SEK,Tele2,consumer,mobile,30 GB,added,monthly_price_nok,,329.0,,no
+2026-07-08,20260708T050012Z,SE,SEK,Tele2,consumer,mobile,15 GB,removed,monthly_price_nok,329.0,,,no
+2026-07-06,20260706T050011Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,199.0,249.0,50.0,yes
+2026-07-04,20260704T050012Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,249.0,199.0,-50.0,yes
+2026-07-03,20260703T050013Z,SE,SEK,Tre,consumer,mobile,Obegränsad surf,modified,monthly_price_nok,399.0,429.0,30.0,no
+2026-07-02,20260702T050010Z,FI,EUR,Elisa,consumer,mobile,Elisa Mini 10M Liittymäturva,replaced,plan_name,Elisa Tarkka 10M Liittymäturva,Elisa Mini 10M Liittymäturva,,no
+2026-07-02,20260702T050010Z,FI,EUR,Elisa,consumer,mobile,Elisa Mini 10M Liittymäturva,replaced,monthly_price_nok,19.99,20.99,1.0,no
+2026-07-01,20260701T050012Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,379.0,399.0,20.0,yes
+2026-07-01,20260701T050012Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,199.0,249.0,50.0,yes
+2026-06-27,20260627T050013Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,399.0,379.0,-20.0,yes
+2026-06-27,20260627T050013Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,249.0,199.0,-50.0,no
+2026-06-27,20260627T050013Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,binding_months,0,24,24,no
+2026-06-13,20260613T050017Z,SE,SEK,Tre,consumer,mobile,Obegränsad surf,replaced,plan_name,Obegränsat,Obegränsad surf,,no
+2026-06-13,20260613T050017Z,SE,SEK,Tre,consumer,mobile,Obegränsad surf,replaced,monthly_price_nok,429.0,399.0,-30.0,no
+2026-06-13,20260613T050017Z,SE,SEK,Starlink,consumer,broadband,Roam - Unlimited,added,monthly_price_nok,,1020.0,,no
+2026-06-13,20260613T050017Z,SE,SEK,Starlink,consumer,broadband,Roam - 100GB,added,monthly_price_nok,,510.0,,no
+2026-06-13,20260613T050017Z,SE,SEK,Starlink,consumer,broadband,Residential - Max,added,monthly_price_nok,,800.0,,no
+2026-06-13,20260613T050017Z,SE,SEK,Starlink,consumer,broadband,Residential - 200 Mbps,added,monthly_price_nok,,585.0,,no
+2026-06-13,20260613T050017Z,SE,SEK,Starlink,consumer,broadband,Residential - 100 Mbps,added,monthly_price_nok,,370.0,,no
+2026-06-13,20260613T050017Z,NO,NOK,OneCall,consumer,mobile,1 GB,added,monthly_price_nok,,149.0,,no
+2026-06-13,20260613T050017Z,NO,NOK,OneCall,consumer,mobile,"0,5 GB",removed,monthly_price_nok,129.0,,,no
+2026-06-13,20260613T050017Z,FI,EUR,Starlink,consumer,broadband,Roam - Unlimited,added,monthly_price_nok,,95.0,,no
+2026-06-13,20260613T050017Z,FI,EUR,Starlink,consumer,broadband,Roam - 100GB,added,monthly_price_nok,,45.0,,no
+2026-06-13,20260613T050017Z,FI,EUR,Starlink,consumer,broadband,Residential - Max,added,monthly_price_nok,,75.0,,no
+2026-06-13,20260613T050017Z,FI,EUR,Starlink,consumer,broadband,Residential - 200 Mbps,added,monthly_price_nok,,55.0,,no
+2026-06-13,20260613T050017Z,FI,EUR,Starlink,consumer,broadband,Residential - 100 Mbps,added,monthly_price_nok,,35.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,YouSee,consumer,mobile,Fri Data Mobil,added,monthly_price_nok,,299.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,YouSee,consumer,mobile,50 GB Mobil,added,monthly_price_nok,,219.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,YouSee,consumer,mobile,3 Timer + 3 GB,added,monthly_price_nok,,99.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,YouSee,consumer,mobile,25 GB Mobil,added,monthly_price_nok,,179.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,YouSee,consumer,mobile,100 GB Mobil,added,monthly_price_nok,,249.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,Starlink,consumer,broadband,Roam - Unlimited,added,monthly_price_nok,,700.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,Starlink,consumer,broadband,Roam - 100GB,added,monthly_price_nok,,330.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,Starlink,consumer,broadband,Residential - Max,added,monthly_price_nok,,530.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,Starlink,consumer,broadband,Residential - 200 Mbps,added,monthly_price_nok,,370.0,,no
+2026-06-13,20260613T050017Z,DK,DKK,Starlink,consumer,broadband,Residential - 100 Mbps,added,monthly_price_nok,,235.0,,no
+2026-06-12,20260612T050013Z,FI,EUR,Telia,consumer,mobile,Säästö 4G 20M,added,monthly_price_nok,,20.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Telia,consumer,mobile,Rehti Premium,added,monthly_price_nok,,59.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Telia,consumer,mobile,Rehti 5G 600M,added,monthly_price_nok,,44.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Telia,consumer,mobile,Rehti 5G 400M,added,monthly_price_nok,,38.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Telia,consumer,mobile,Rehti 5G 1000M,added,monthly_price_nok,,49.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Telia,consumer,mobile,Rehti 4G 50M,added,monthly_price_nok,,29.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Telia,consumer,mobile,Rehti 4G 150M,added,monthly_price_nok,,32.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Moi,consumer,mobile,Teho 5G 200,added,monthly_price_nok,,23.0,,no
+2026-06-12,20260612T050013Z,FI,EUR,Moi,consumer,mobile,Super 5G 1000,added,monthly_price_nok,,38.0,,no
+2026-06-12,20260612T050013Z,FI,EUR,Moi,consumer,mobile,Nopea 5G 450,added,monthly_price_nok,,26.0,,no
+2026-06-12,20260612T050013Z,FI,EUR,Moi,consumer,mobile,Kevyt 4G 50,added,monthly_price_nok,,15.0,,no
+2026-06-12,20260612T050013Z,FI,EUR,Moi,consumer,mobile,Fiksu 4G 100,added,monthly_price_nok,,21.0,,no
+2026-06-12,20260612T050013Z,FI,EUR,Giga Mobiili,consumer,mobile,PikkujÃ¤rki,added,monthly_price_nok,,21.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Giga Mobiili,consumer,mobile,PerusjÃ¤rki,added,monthly_price_nok,,24.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Giga Mobiili,consumer,mobile,HuippujÃ¤rki,added,monthly_price_nok,,37.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Giga Mobiili,consumer,mobile,ArkijÃ¤rki,added,monthly_price_nok,,26.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Elisa,consumer,mobile,Elisa Tarkka 10M Liittymäturva,added,monthly_price_nok,,19.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Elisa,consumer,mobile,Elisa Premium 5.5G Liittymäturva,added,monthly_price_nok,,60.0,,no
+2026-06-12,20260612T050013Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 600M Liittymäturva,added,monthly_price_nok,,45.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 400M Liittymäturva,added,monthly_price_nok,,42.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 1000M Liittymäturva,added,monthly_price_nok,,53.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 20M Liittymäturva,added,monthly_price_nok,,30.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 150M Liittymäturva,added,monthly_price_nok,,35.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus Mini,added,monthly_price_nok,,19.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 5G 600M,added,monthly_price_nok,,45.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 5G 400M,added,monthly_price_nok,,40.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 5G 1000M,added,monthly_price_nok,,50.99,,no
+2026-06-12,20260612T050013Z,FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 20M,added,monthly_price_nok,,30.99,,no
+2026-06-12,20260612T050013Z,DK,DKK,Telenor,consumer,mobile,Fri Data + Fri tale,added,monthly_price_nok,,289.0,,no
+2026-06-12,20260612T050013Z,DK,DKK,Telenor,consumer,mobile,80 GB + Fri tale,added,monthly_price_nok,,209.0,,no
+2026-06-12,20260612T050013Z,DK,DKK,Telenor,consumer,mobile,30 GB + Fri tale,added,monthly_price_nok,,169.0,,no
+2026-06-12,20260612T050013Z,DK,DKK,Telenor,consumer,mobile,120 GB + Fri tale,added,monthly_price_nok,,239.0,,no
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,5 GB,modified,campaign_price_nok,60.0,20.0,-40.0,yes
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,5 GB,modified,campaign_months,4,3,-1,yes
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,25 GB,modified,campaign_price_nok,130.0,20.0,-110.0,yes
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,25 GB,modified,campaign_months,4,3,-1,yes
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,15 GB,modified,campaign_price_nok,105.0,20.0,-85.0,yes
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,15 GB,modified,campaign_months,4,3,-1,yes
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,100 GB,modified,campaign_price_nok,185.0,20.0,-165.0,yes
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,100 GB,modified,campaign_months,4,3,-1,yes
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,10 GB,modified,campaign_price_nok,85.0,20.0,-65.0,yes
+2026-06-08,20260608T113709Z,SE,SEK,Vimla,consumer,mobile,10 GB,modified,campaign_months,4,3,-1,yes
+2026-06-05,20260605T050018Z,SE,SEK,Telenor,business,mobile,Obegränsat Premium,modified,campaign_price_nok,549.0,399.0,-150.0,yes
+2026-06-05,20260605T050018Z,SE,SEK,Telenor,business,mobile,Obegränsat Plus,modified,campaign_price_nok,449.0,299.0,-150.0,yes
+2026-06-05,20260605T050018Z,NO,NOK,Telia,consumer,mobile,Junior 10 GB,added,monthly_price_nok,,229.0,,no
+2026-06-05,20260605T050018Z,NO,NOK,Telia,consumer,mobile,Junior 1 GB,added,monthly_price_nok,,129.0,,no
+2026-06-05,20260605T050018Z,NO,NOK,OneCall,consumer,mobile,35 GB,removed,monthly_price_nok,379.0,,,no
+2026-06-05,20260605T050018Z,NO,NOK,OneCall,consumer,mobile,100 GB,added,monthly_price_nok,,349.0,,no
+2026-06-03,20260603T062405Z,SE,SEK,Telenor,consumer,mobile,Obegränsat Plus,added,monthly_price_nok,,629.0,,no
+2026-06-03,20260603T062405Z,SE,SEK,Telenor,consumer,mobile,Obegränsat,added,monthly_price_nok,,499.0,,no
+2026-06-03,20260603T062405Z,SE,SEK,Telenor,consumer,mobile,25 GB,added,monthly_price_nok,,399.0,,no
+2026-06-03,20260603T062405Z,SE,SEK,Telenor,consumer,mobile,10 GB,added,monthly_price_nok,,299.0,,no
+2026-06-03,20260603T050010Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,379.0,399.0,20.0,yes
+2026-06-03,20260603T050010Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,199.0,249.0,50.0,yes
+2026-06-01,20260601T110655Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,249.0,199.0,-50.0,yes
+2026-06-01,20260601T050012Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,429.0,399.0,-30.0,yes
+2026-06-01,20260601T050012Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,199.0,249.0,50.0,no
+2026-06-01,20260601T050012Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,binding_months,24,0,-24,no
+2026-06-01,20260601T050012Z,NO,NOK,Telia,consumer,mobile,Telia X Kampanje,removed,monthly_price_nok,499.0,,,no
+2026-06-01,20260601T050012Z,NO,NOK,Telia,consumer,mobile,Junior 10 GB,removed,monthly_price_nok,229.0,,,no
+2026-06-01,20260601T050012Z,NO,NOK,Telia,consumer,mobile,Junior 1 GB,removed,monthly_price_nok,129.0,,,no
+2026-05-31,20260531T050007Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,249.0,199.0,-50.0,no
+2026-05-31,20260531T050007Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,binding_months,0,24,24,no
+2026-05-29,20260529T050014Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,199.0,249.0,50.0,no
+2026-05-29,20260529T050014Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,binding_months,24,0,-24,no
+2026-05-28,20260528T204953Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,249.0,199.0,-50.0,no
+2026-05-28,20260528T204953Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,binding_months,0,24,24,no
+2026-05-28,20260528T050016Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,199.0,249.0,50.0,no
+2026-05-28,20260528T050016Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,binding_months,24,0,-24,no
+2026-05-27,20260527T050010Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,binding_months,0,24,24,no
+2026-05-26,20260526T172140Z,SE,SEK,Vimla,consumer,mobile,5 GB,added,monthly_price_nok,,120.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Vimla,consumer,mobile,25 GB,added,monthly_price_nok,,260.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Vimla,consumer,mobile,15 GB,added,monthly_price_nok,,210.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Vimla,consumer,mobile,100 GB,added,monthly_price_nok,,370.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Vimla,consumer,mobile,10 GB,added,monthly_price_nok,,170.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Tre,consumer,mobile,Obegränsat,added,monthly_price_nok,,429.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Tre,consumer,mobile,6 GB,added,monthly_price_nok,,229.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Tre,consumer,mobile,25 GB,added,monthly_price_nok,,329.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus TV4 Play,added,monthly_price_nok,,599.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,"Obegränsad Plus Netflix, HBO Max, Disney+",added,monthly_price_nok,,699.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus Netflix,added,monthly_price_nok,,629.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus HBO Max,added,monthly_price_nok,,609.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus Disney+,added,monthly_price_nok,,599.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus Amazon Prime,added,monthly_price_nok,,599.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,Obegränsad Plus,added,monthly_price_nok,,569.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,Obegränsad,added,monthly_price_nok,,499.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,"Mobil Rörlig 0,2",added,monthly_price_nok,,129.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,20 GB,added,monthly_price_nok,,399.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telia,consumer,mobile,10 GB,added,monthly_price_nok,,299.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telenor,business,mobile,Obegränsat Premium,added,monthly_price_nok,,599.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telenor,consumer,mobile,Obegränsat Plus,added,monthly_price_nok,,629.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telenor,business,mobile,Obegränsat Plus,added,monthly_price_nok,,499.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telenor,consumer,mobile,Obegränsat,added,monthly_price_nok,,499.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telenor,business,mobile,Obegränsat,added,monthly_price_nok,,449.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telenor,business,mobile,7 GB,added,monthly_price_nok,,329.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telenor,consumer,mobile,25 GB,added,monthly_price_nok,,399.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Telenor,consumer,mobile,10 GB,added,monthly_price_nok,,299.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,added,monthly_price_nok,,519.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,added,monthly_price_nok,,479.0,,no
+2026-05-26,20260526T172140Z,SE,SEK,Tele2,consumer,mobile,15 GB,added,monthly_price_nok,,329.0,,no
