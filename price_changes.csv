@@ -1,4 +1,5 @@
 changed_on,run_id,country,currency,brand,segment_type,product_type,plan_name,kind,field,old,new,delta,is_campaign
+2026-10-20,20261020T050011Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,429.0,449.0,20.0,yes
 2026-10-16,20261016T050028Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,449.0,429.0,-20.0,yes
 2026-10-15,20261015T050013Z,NO,NOK,Telia,consumer,mobile,Telia X Start,modified,monthly_price_nok,499.0,549.0,50.0,no
 2026-10-15,20261015T050013Z,NO,NOK,Telia,consumer,mobile,Telia X Start,modified,campaign_price_nok,399.0,449.0,50.0,no
