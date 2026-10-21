@@ -1,4 +1,16 @@
 changed_on,run_id,country,currency,brand,segment_type,product_type,plan_name,kind,field,old,new,delta,is_campaign
+2026-10-21,20261021T050010Z,SE,SEK,Telenor,business,mobile,Obegränsat Premium,modified,campaign_price_nok,399.0,499.0,100.0,yes
+2026-10-21,20261021T050010Z,SE,SEK,Telenor,business,mobile,Obegränsat Plus,removed,monthly_price_nok,499.0,,,no
+2026-10-21,20261021T050010Z,SE,SEK,Telenor,business,mobile,Obegränsat,modified,campaign_price_nok,399.0,349.0,-50.0,yes
+2026-10-21,20261021T050010Z,SE,SEK,Telenor,business,mobile,15 GB,added,monthly_price_nok,,369.0,,no
+2026-10-21,20261021T050010Z,NO,NOK,OneCall,consumer,mobile,8 GB,removed,monthly_price_nok,229.0,,,no
+2026-10-21,20261021T050010Z,NO,NOK,OneCall,consumer,mobile,6 GB,added,monthly_price_nok,,199.0,,no
+2026-10-21,20261021T050010Z,NO,NOK,OneCall,consumer,mobile,50 GB,added,monthly_price_nok,,349.0,,no
+2026-10-21,20261021T050010Z,NO,NOK,OneCall,consumer,mobile,35 GB,removed,monthly_price_nok,379.0,,,no
+2026-10-21,20261021T050010Z,NO,NOK,OneCall,consumer,mobile,25 GB,added,monthly_price_nok,,299.0,,no
+2026-10-21,20261021T050010Z,NO,NOK,OneCall,consumer,mobile,2 GB,removed,monthly_price_nok,179.0,,,no
+2026-10-21,20261021T050010Z,NO,NOK,OneCall,consumer,mobile,"15,8 GB",removed,monthly_price_nok,279.0,,,no
+2026-10-21,20261021T050010Z,NO,NOK,OneCall,consumer,mobile,12 GB,added,monthly_price_nok,,249.0,,no
 2026-10-20,20261020T050011Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,429.0,449.0,20.0,yes
 2026-10-16,20261016T050028Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,449.0,429.0,-20.0,yes
 2026-10-15,20261015T050013Z,NO,NOK,Telia,consumer,mobile,Telia X Start,modified,monthly_price_nok,499.0,549.0,50.0,no
