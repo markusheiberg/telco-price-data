@@ -1,4 +1,5 @@
 changed_on,run_id,country,currency,brand,segment_type,product_type,plan_name,kind,field,old,new,delta,is_campaign
+2026-10-26,20261026T060024Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,campaign_price_nok,199.0,249.0,50.0,yes
 2026-10-22,20261022T050010Z,NO,NOK,OneCall,consumer,mobile,Fri Data,replaced,plan_name,Fri data,Fri Data,,yes
 2026-10-21,20261021T050010Z,SE,SEK,Telenor,business,mobile,Obegränsat Premium,modified,campaign_price_nok,399.0,499.0,100.0,yes
 2026-10-21,20261021T050010Z,SE,SEK,Telenor,business,mobile,Obegränsat Plus,removed,monthly_price_nok,499.0,,,no
