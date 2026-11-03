@@ -1,4 +1,7 @@
 changed_on,run_id,country,currency,brand,segment_type,product_type,plan_name,kind,field,old,new,delta,is_campaign
+2026-11-03,20261103T060027Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,399.0,449.0,50.0,yes
+2026-11-03,20261103T060027Z,SE,SEK,Tele2,consumer,mobile,30 GB,removed,monthly_price_nok,329.0,,,no
+2026-11-03,20261103T060027Z,SE,SEK,Tele2,consumer,mobile,15 GB,added,monthly_price_nok,,329.0,,no
 2026-11-01,20261101T060012Z,NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 500,modified,monthly_price_nok,1149.0,1248.0,99.0,no
 2026-11-01,20261101T060012Z,NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 50,modified,monthly_price_nok,849.0,898.0,49.0,no
 2026-11-01,20261101T060012Z,NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 30,removed,monthly_price_nok,849.0,,,no
