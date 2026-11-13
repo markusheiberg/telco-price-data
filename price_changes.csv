@@ -1,4 +1,11 @@
 changed_on,run_id,country,currency,brand,segment_type,product_type,plan_name,kind,field,old,new,delta,is_campaign
+2026-11-13,20261113T060009Z,SE,SEK,Telenor,consumer,mobile,Obegränsat Plus,modified,campaign_price_nok,529.0,469.0,-60.0,yes
+2026-11-13,20261113T060009Z,SE,SEK,Telenor,consumer,mobile,Obegränsat,modified,campaign_price_nok,449.0,349.0,-100.0,yes
+2026-11-13,20261113T060009Z,SE,SEK,Telenor,consumer,mobile,25 GB,modified,campaign_price_nok,349.0,329.0,-20.0,yes
+2026-11-13,20261113T060009Z,NO,NOK,ice,consumer,mobile,50 GB,added,monthly_price_nok,,299.0,,no
+2026-11-13,20261113T060009Z,NO,NOK,Telia,consumer,mobile,Telia X + Viaplay Premium,replaced,plan_name,Telia X + Viaplay Total,Telia X + Viaplay Premium,,yes
+2026-11-13,20261113T060009Z,NO,NOK,OneCall,consumer,mobile,50 GB,removed,monthly_price_nok,349.0,,,no
+2026-11-13,20261113T060009Z,NO,NOK,OneCall,consumer,mobile,100 GB,added,monthly_price_nok,,349.0,,no
 2026-11-12,20261112T060010Z,NO,NOK,OneCall,consumer,mobile,Fri data,replaced,plan_name,Fri Data,Fri data,,yes
 2026-11-03,20261103T060027Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,399.0,449.0,50.0,yes
 2026-11-03,20261103T060027Z,SE,SEK,Tele2,consumer,mobile,30 GB,removed,monthly_price_nok,329.0,,,no
