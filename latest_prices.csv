@@ -1,162 +1,162 @@
 country,currency,brand,segment_type,product_type,plan_name,segment,data_gb,monthly_price,campaign_price,campaign_months,binding_months,vat_included,min_users,scraped_at,url
-DK,DKK,Starlink,consumer,broadband,Residential - 100 Mbps,standard,9999.0,235.0,,,0,yes,,2026-11-13T06:02:15.422415,https://www.starlink.com/dk/service-plans
-DK,DKK,Starlink,consumer,broadband,Roam - 100GB,standard,100.0,330.0,,,0,yes,,2026-11-13T06:02:15.422423,https://www.starlink.com/dk/service-plans
-DK,DKK,Starlink,consumer,broadband,Residential - 200 Mbps,standard,9999.0,370.0,,,0,yes,,2026-11-13T06:02:15.422391,https://www.starlink.com/dk/service-plans
-DK,DKK,Starlink,consumer,broadband,Residential - Max,standard,9999.0,530.0,,,0,yes,,2026-11-13T06:02:15.422408,https://www.starlink.com/dk/service-plans
-DK,DKK,Starlink,consumer,broadband,Roam - Unlimited,standard,9999.0,700.0,,,0,yes,,2026-11-13T06:02:15.422429,https://www.starlink.com/dk/service-plans
-DK,DKK,Telenor,consumer,mobile,30 GB + Fri tale,standard,30.0,169.0,,,0,yes,,2026-11-13T06:04:14.688631,https://www.telenor.dk/shop/abonnementer/abonnementer-til-dig/
-DK,DKK,Telenor,consumer,mobile,80 GB + Fri tale,standard,80.0,209.0,,,0,yes,,2026-11-13T06:04:14.688654,https://www.telenor.dk/shop/abonnementer/abonnementer-til-dig/
-DK,DKK,Telenor,consumer,mobile,120 GB + Fri tale,standard,120.0,239.0,,,0,yes,,2026-11-13T06:04:14.688649,https://www.telenor.dk/shop/abonnementer/abonnementer-til-dig/
-DK,DKK,Telenor,consumer,mobile,Fri Data + Fri tale,standard,9999.0,289.0,,,0,yes,,2026-11-13T06:04:14.688644,https://www.telenor.dk/shop/abonnementer/abonnementer-til-dig/
-DK,DKK,YouSee,consumer,mobile,3 Timer + 3 GB,standard,3.0,99.0,,,0,yes,,2026-11-12T06:04:25.494772,https://yousee.dk/shop/mobilabonnement
-DK,DKK,YouSee,consumer,mobile,25 GB Mobil,standard,25.0,179.0,,,0,yes,,2026-11-12T06:04:25.494737,https://yousee.dk/shop/mobilabonnement
-DK,DKK,YouSee,consumer,mobile,50 GB Mobil,standard,50.0,219.0,,,0,yes,,2026-11-12T06:04:25.494755,https://yousee.dk/shop/mobilabonnement
-DK,DKK,YouSee,consumer,mobile,100 GB Mobil,standard,100.0,249.0,,,0,yes,,2026-11-12T06:04:25.494760,https://yousee.dk/shop/mobilabonnement
-DK,DKK,YouSee,consumer,mobile,Fri Data Mobil,standard,9999.0,299.0,,,0,yes,,2026-11-12T06:04:25.494766,https://yousee.dk/shop/mobilabonnement
-FI,EUR,Starlink,consumer,broadband,Residential - 100 Mbps,standard,9999.0,35.0,,,0,yes,,2026-11-13T06:02:16.148861,https://www.starlink.com/fi/service-plans
-FI,EUR,Starlink,consumer,broadband,Roam - 100GB,standard,100.0,45.0,,,0,yes,,2026-11-13T06:02:16.148899,https://www.starlink.com/fi/service-plans
-FI,EUR,Starlink,consumer,broadband,Residential - 200 Mbps,standard,9999.0,55.0,,,0,yes,,2026-11-13T06:02:16.148885,https://www.starlink.com/fi/service-plans
-FI,EUR,Starlink,consumer,broadband,Residential - Max,standard,9999.0,75.0,,,0,yes,,2026-11-13T06:02:16.148877,https://www.starlink.com/fi/service-plans
-FI,EUR,Starlink,consumer,broadband,Roam - Unlimited,standard,9999.0,95.0,,,0,yes,,2026-11-13T06:02:16.148891,https://www.starlink.com/fi/service-plans
+DK,DKK,Starlink,consumer,broadband,Residential - 100 Mbps,standard,9999.0,235.0,,,0,yes,,2026-11-14T06:03:07.503670,https://www.starlink.com/dk/service-plans
+DK,DKK,Starlink,consumer,broadband,Roam - 100GB,standard,100.0,330.0,,,0,yes,,2026-11-14T06:03:07.503678,https://www.starlink.com/dk/service-plans
+DK,DKK,Starlink,consumer,broadband,Residential - 200 Mbps,standard,9999.0,370.0,,,0,yes,,2026-11-14T06:03:07.503646,https://www.starlink.com/dk/service-plans
+DK,DKK,Starlink,consumer,broadband,Residential - Max,standard,9999.0,530.0,,,0,yes,,2026-11-14T06:03:07.503663,https://www.starlink.com/dk/service-plans
+DK,DKK,Starlink,consumer,broadband,Roam - Unlimited,standard,9999.0,700.0,,,0,yes,,2026-11-14T06:03:07.503684,https://www.starlink.com/dk/service-plans
+DK,DKK,Telenor,consumer,mobile,30 GB + Fri tale,standard,30.0,169.0,,,0,yes,,2026-11-14T06:05:06.228814,https://www.telenor.dk/shop/abonnementer/abonnementer-til-dig/
+DK,DKK,Telenor,consumer,mobile,80 GB + Fri tale,standard,80.0,209.0,,,0,yes,,2026-11-14T06:05:06.228839,https://www.telenor.dk/shop/abonnementer/abonnementer-til-dig/
+DK,DKK,Telenor,consumer,mobile,120 GB + Fri tale,standard,120.0,239.0,,,0,yes,,2026-11-14T06:05:06.228835,https://www.telenor.dk/shop/abonnementer/abonnementer-til-dig/
+DK,DKK,Telenor,consumer,mobile,Fri Data + Fri tale,standard,9999.0,289.0,,,0,yes,,2026-11-14T06:05:06.228830,https://www.telenor.dk/shop/abonnementer/abonnementer-til-dig/
+DK,DKK,YouSee,consumer,mobile,3 Timer + 3 GB,standard,3.0,99.0,,,0,yes,,2026-11-14T06:05:06.698722,https://yousee.dk/shop/mobilabonnement
+DK,DKK,YouSee,consumer,mobile,25 GB Mobil,standard,25.0,179.0,,,0,yes,,2026-11-14T06:05:06.698693,https://yousee.dk/shop/mobilabonnement
+DK,DKK,YouSee,consumer,mobile,50 GB Mobil,standard,50.0,219.0,,,0,yes,,2026-11-14T06:05:06.698708,https://yousee.dk/shop/mobilabonnement
+DK,DKK,YouSee,consumer,mobile,100 GB Mobil,standard,100.0,249.0,,,0,yes,,2026-11-14T06:05:06.698713,https://yousee.dk/shop/mobilabonnement
+DK,DKK,YouSee,consumer,mobile,Fri Data Mobil,standard,9999.0,299.0,,,0,yes,,2026-11-14T06:05:06.698717,https://yousee.dk/shop/mobilabonnement
+FI,EUR,Starlink,consumer,broadband,Residential - 100 Mbps,standard,9999.0,35.0,,,0,yes,,2026-11-14T06:03:08.236618,https://www.starlink.com/fi/service-plans
+FI,EUR,Starlink,consumer,broadband,Roam - 100GB,standard,100.0,45.0,,,0,yes,,2026-11-14T06:03:08.236658,https://www.starlink.com/fi/service-plans
+FI,EUR,Starlink,consumer,broadband,Residential - 200 Mbps,standard,9999.0,55.0,,,0,yes,,2026-11-14T06:03:08.236644,https://www.starlink.com/fi/service-plans
+FI,EUR,Starlink,consumer,broadband,Residential - Max,standard,9999.0,75.0,,,0,yes,,2026-11-14T06:03:08.236636,https://www.starlink.com/fi/service-plans
+FI,EUR,Starlink,consumer,broadband,Roam - Unlimited,standard,9999.0,95.0,,,0,yes,,2026-11-14T06:03:08.236650,https://www.starlink.com/fi/service-plans
 FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus Mini,standard,9999,19.99,,,0,yes,,2026-10-20T05:03:36.907207,https://www.dna.fi/liittymat-ja-palvelut/puhe/liittymavertailu
 FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 20M,standard,9999,30.99,26.99,12,12,yes,,2026-10-20T05:03:36.907758,https://www.dna.fi/liittymat-ja-palvelut/puhe/liittymavertailu
 FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 5G 400M,standard,9999,40.99,34.99,12,12,yes,,2026-10-20T05:03:36.905611,https://www.dna.fi/liittymat-ja-palvelut/puhe/liittymavertailu
 FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 5G 600M,standard,9999,45.99,38.99,12,12,yes,,2026-10-20T05:03:36.906198,https://www.dna.fi/liittymat-ja-palvelut/puhe/liittymavertailu
 FI,EUR,DNA,consumer,mobile,DNA Huoleton Plus 5G 1000M,standard,9999,50.99,48.99,12,12,yes,,2026-10-20T05:03:36.906622,https://www.dna.fi/liittymat-ja-palvelut/puhe/liittymavertailu
-FI,EUR,Elisa,consumer,mobile,Elisa Mini 10M Liittymäturva,standard,9999,20.99,,,0,yes,,2026-11-13T06:04:12.508135,https://elisa.fi/kauppa/puhelinliittymat
-FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 20M Liittymäturva,standard,9999,30.99,27.99,12,12,yes,,2026-11-13T06:04:12.968718,https://elisa.fi/kauppa/puhelinliittymat
-FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 150M Liittymäturva,standard,9999,35.99,33.99,12,12,yes,,2026-11-13T06:04:13.424637,https://elisa.fi/kauppa/puhelinliittymat
-FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 400M Liittymäturva,standard,9999,42.99,34.99,24,24,yes,,2026-11-13T06:04:10.687468,https://elisa.fi/kauppa/puhelinliittymat
-FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 600M Liittymäturva,standard,9999,45.99,38.99,24,24,yes,,2026-11-13T06:04:11.154771,https://elisa.fi/kauppa/puhelinliittymat
-FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 1000M Liittymäturva,standard,9999,53.99,50.99,24,24,yes,,2026-11-13T06:04:11.617336,https://elisa.fi/kauppa/puhelinliittymat
-FI,EUR,Elisa,consumer,mobile,Elisa Premium 5.5G Liittymäturva,standard,9999,60.0,,,0,yes,,2026-11-13T06:04:12.061470,https://elisa.fi/kauppa/puhelinliittymat
-FI,EUR,Giga Mobiili,consumer,mobile,Pikkujärki,standard,9999,23.99,21.99,12,12,yes,,2026-11-13T06:04:14.288385,https://www.gigamobiili.fi/fi/subscriptions
-FI,EUR,Giga Mobiili,consumer,mobile,Perusjärki,standard,9999,26.99,24.99,12,12,yes,,2026-11-13T06:04:14.288417,https://www.gigamobiili.fi/fi/subscriptions
-FI,EUR,Giga Mobiili,consumer,mobile,Arkijärki,standard,9999,28.99,26.99,12,12,yes,,2026-11-13T06:04:14.288438,https://www.gigamobiili.fi/fi/subscriptions
-FI,EUR,Giga Mobiili,consumer,mobile,Huippujärki,standard,9999,39.99,37.99,12,12,yes,,2026-11-13T06:04:14.288456,https://www.gigamobiili.fi/fi/subscriptions
-FI,EUR,Moi,consumer,mobile,Kevyt 4G 50,standard,8.0,15.0,,,0,yes,,2026-11-13T06:04:13.538279,https://www.moi.fi/
-FI,EUR,Moi,consumer,mobile,Fiksu 4G 100,standard,9999.0,21.0,,,0,yes,,2026-11-13T06:04:13.538266,https://www.moi.fi/
-FI,EUR,Moi,consumer,mobile,Teho 5G 200,standard,9999.0,23.0,,,0,yes,,2026-11-13T06:04:13.538283,https://www.moi.fi/
-FI,EUR,Moi,consumer,mobile,Nopea 5G 450,standard,9999.0,26.0,,,0,yes,,2026-11-13T06:04:13.538288,https://www.moi.fi/
-FI,EUR,Moi,consumer,mobile,Super 5G 1000,standard,9999.0,38.0,,,0,yes,,2026-11-13T06:04:13.538291,https://www.moi.fi/
-FI,EUR,Telia,consumer,mobile,Säästö 4G 20M,standard,9999,21.99,,,0,yes,,2026-11-13T06:04:05.162610,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
-FI,EUR,Telia,consumer,mobile,Rehti 4G 50M,standard,9999,29.99,27.99,12,12,yes,,2026-11-13T06:04:05.164273,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
-FI,EUR,Telia,consumer,mobile,Rehti 4G 150M,standard,9999,32.99,,,0,yes,,2026-11-13T06:04:05.165879,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
-FI,EUR,Telia,consumer,mobile,Rehti 5G 400M,standard,9999,38.99,34.99,12,12,yes,,2026-11-13T06:04:05.155865,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
-FI,EUR,Telia,consumer,mobile,Rehti 5G 600M,standard,9999,44.99,38.99,12,12,yes,,2026-11-13T06:04:05.157678,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
-FI,EUR,Telia,consumer,mobile,Rehti 5G 1000M,standard,9999,49.99,48.99,12,12,yes,,2026-11-13T06:04:05.159447,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
-FI,EUR,Telia,consumer,mobile,Rehti Premium,standard,9999,59.99,58.99,12,12,yes,,2026-11-13T06:04:05.160402,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
-NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 150/150 (150/150 Mbps),standard,9999.0,919.0,,,0,yes,,2026-11-13T06:02:00.859930,https://bergenfiber.no/fiber-internett/
-NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 250/250 (250/250 Mbps),standard,9999.0,1019.0,,,0,yes,,2026-11-13T06:02:00.869776,https://bergenfiber.no/fiber-internett/
-NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 500/500  (500/500 Mbps),standard,9999.0,1119.0,,,0,yes,,2026-11-13T06:02:00.878321,https://bergenfiber.no/fiber-internett/
-NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 750/750 (750/750 Mbps),standard,9999.0,1169.0,,,0,yes,,2026-11-13T06:02:00.887031,https://bergenfiber.no/fiber-internett/
-NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 1000/1000 (1000/1000 Mbps),standard,9999.0,1419.0,,,0,yes,,2026-11-13T06:02:00.895252,https://bergenfiber.no/fiber-internett/
-NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd Fritid 100/100,standard,9999.0,599.0,,,0,yes,,2026-11-13T06:02:11.770388,https://www.lyse.no/altibox/priser
-NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 150/150,standard,9999.0,919.0,,,0,yes,,2026-11-13T06:02:08.308335,https://www.lyse.no/altibox/priser
-NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd Fritid 500/500,standard,9999.0,949.0,,,0,yes,,2026-11-13T06:02:12.467471,https://www.lyse.no/altibox/priser
-NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 250/250,standard,9999.0,1019.0,,,0,yes,,2026-11-13T06:02:09.004389,https://www.lyse.no/altibox/priser
-NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 500/500,standard,9999.0,1119.0,,,0,yes,,2026-11-13T06:02:09.702189,https://www.lyse.no/altibox/priser
-NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 750/750,standard,9999.0,1169.0,,,0,yes,,2026-11-13T06:02:10.384265,https://www.lyse.no/altibox/priser
-NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 1000/1000,standard,9999.0,1419.0,,,0,yes,,2026-11-13T06:02:11.069279,https://www.lyse.no/altibox/priser
-NO,NOK,Starlink,consumer,broadband,Residential - 100 Mbps,standard,9999.0,370.0,,,0,yes,,2026-11-13T06:02:13.477738,https://www.starlink.com/no/service-plans
-NO,NOK,Starlink,consumer,broadband,Roam - 100GB,standard,100.0,505.0,,,0,yes,,2026-11-13T06:02:13.477748,https://www.starlink.com/no/service-plans
-NO,NOK,Starlink,consumer,broadband,Residential - 200 Mbps,standard,9999.0,585.0,,,0,yes,,2026-11-13T06:02:13.477713,https://www.starlink.com/no/service-plans
-NO,NOK,Starlink,consumer,broadband,Residential - Max,standard,9999.0,850.0,,,0,yes,,2026-11-13T06:02:13.477730,https://www.starlink.com/no/service-plans
-NO,NOK,Starlink,consumer,broadband,Roam - Unlimited,standard,9999.0,1065.0,,,0,yes,,2026-11-13T06:02:13.477766,https://www.starlink.com/no/service-plans
-NO,NOK,Telenor,consumer,broadband,Bredbånd 150,standard,,1048.0,,,0,yes,,2026-11-13T06:00:57.217221,https://www.telenor.no/vilkar/prisliste-tv-og-bredband/
-NO,NOK,Telenor,consumer,broadband,Bredbånd 500,standard,,1148.0,,,0,yes,,2026-11-13T06:00:57.217244,https://www.telenor.no/vilkar/prisliste-tv-og-bredband/
-NO,NOK,Telenor,consumer,broadband,Bredbånd 1000,standard,,1398.0,,,0,yes,,2026-11-13T06:00:57.217254,https://www.telenor.no/vilkar/prisliste-tv-og-bredband/
-NO,NOK,Telia,consumer,broadband,100 Mbit/s,standard,9999.0,958.0,799.0,6,0,yes,,2026-11-13T06:01:01.961191,https://www.telia.no/internett/bredband/
-NO,NOK,Telia,consumer,broadband,250 Mbit/s,standard,9999.0,1058.0,899.0,6,0,yes,,2026-11-13T06:01:01.961223,https://www.telia.no/internett/bredband/
-NO,NOK,Telia,consumer,broadband,500 Mbit/s,standard,9999.0,1158.0,999.0,6,0,yes,,2026-11-13T06:01:01.961235,https://www.telia.no/internett/bredband/
-NO,NOK,Telia,consumer,broadband,750 Mbit/s,standard,9999.0,1258.0,1099.0,6,0,yes,,2026-11-13T06:01:01.961259,https://www.telia.no/internett/bredband/
-NO,NOK,Telia,consumer,broadband,100 Mbit/s + TV,standard,9999.0,1456.0,1049.0,6,0,yes,,2026-11-13T06:01:01.961210,https://www.telia.no/internett/bredband/
-NO,NOK,Telia,consumer,broadband,2500 Mbit/s,standard,9999.0,1458.0,1299.0,6,0,yes,,2026-11-13T06:01:01.961281,https://www.telia.no/internett/bredband/
-NO,NOK,Telia,consumer,broadband,500 Mbit/s + TV,standard,9999.0,1556.0,1149.0,6,0,yes,,2026-11-13T06:01:01.961247,https://www.telia.no/internett/bredband/
-NO,NOK,Telia,consumer,broadband,2500 Mbit/s + TV,standard,9999.0,1856.0,1449.0,6,0,yes,,2026-11-13T06:01:01.961270,https://www.telia.no/internett/bredband/
-NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 150/150 Mbps,standard,9999.0,899.0,,,0,yes,,2026-11-13T06:01:16.834901,https://vikenfiber.no/produkter/
-NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 250/250 Mbps,standard,9999.0,999.0,,,0,yes,,2026-11-13T06:01:16.842492,https://vikenfiber.no/produkter/
-NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 500/500 Mbps,standard,9999.0,1109.0,,,0,yes,,2026-11-13T06:01:16.850031,https://vikenfiber.no/produkter/
-NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 750/750 Mbps,standard,9999.0,1159.0,,,0,yes,,2026-11-13T06:01:16.856949,https://vikenfiber.no/produkter/
-NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 1000/1000 Mbps,standard,9999.0,1419.0,,,0,yes,,2026-11-13T06:01:16.863862,https://vikenfiber.no/produkter/
-NO,NOK,OneCall,consumer,mobile,God - 10 Mbit/s,standard,0.01,10.0,,,0,yes,,2026-11-13T06:02:49.804642,https://onecall.no/mobilabonnement/folkepakka
-NO,NOK,OneCall,consumer,mobile,Bedre - 40 Mbit/s,standard,0.04,40.0,,,0,yes,,2026-11-13T06:02:52.335738,https://onecall.no/mobilabonnement/folkepakka
-NO,NOK,OneCall,consumer,mobile,1 GB,standard,1.0,149.0,,,0,yes,,2026-11-13T06:02:46.220592,https://onecall.no/mobilabonnement/folkepakka
-NO,NOK,OneCall,consumer,mobile,6 GB,standard,6.0,199.0,,,0,yes,,2026-11-13T06:02:46.235169,https://onecall.no/mobilabonnement/folkepakka
-NO,NOK,OneCall,consumer,mobile,12 GB,standard,12.0,249.0,,,0,yes,,2026-11-13T06:02:46.249424,https://onecall.no/mobilabonnement/folkepakka
-NO,NOK,OneCall,consumer,mobile,25 GB,standard,25.0,299.0,,,0,yes,,2026-11-13T06:02:46.263818,https://onecall.no/mobilabonnement/folkepakka
-NO,NOK,OneCall,consumer,mobile,100 GB,standard,100.0,349.0,,,0,yes,,2026-11-13T06:02:46.204835,https://onecall.no/mobilabonnement/folkepakka
-NO,NOK,OneCall,consumer,mobile,Fri data,standard,9999.0,399.0,,,0,yes,,2026-11-13T06:02:47.278436,https://onecall.no/mobilabonnement/folkepakka
-NO,NOK,OneCall,consumer,mobile,Fri Fart - Opptil 1000 Mbit/s,standard,1.0,1000.0,,,0,yes,,2026-11-13T06:02:54.848875,https://onecall.no/mobilabonnement/folkepakka
-NO,NOK,Talkmore,consumer,mobile,1 GB,standard,1.0,249.0,,,0,yes,,2026-11-13T06:02:41.186899,https://talkmore.no/privat/abonnement/
-NO,NOK,Talkmore,consumer,mobile,5 GB,standard,5.0,299.0,,,0,yes,,2026-11-13T06:02:41.210623,https://talkmore.no/privat/abonnement/
-NO,NOK,Talkmore,consumer,mobile,10 GB,standard,10.0,349.0,,,0,yes,,2026-11-13T06:02:41.151130,https://talkmore.no/privat/abonnement/
-NO,NOK,Talkmore,consumer,mobile,18 GB,standard,18.0,399.0,,,0,yes,,2026-11-13T06:02:41.234468,https://talkmore.no/privat/abonnement/
-NO,NOK,Talkmore,consumer,mobile,30 GB,standard,30.0,449.0,,,0,yes,,2026-11-13T06:02:41.256750,https://talkmore.no/privat/abonnement/
-NO,NOK,Talkmore,consumer,mobile,Ubegrenset Normal,standard,9999.0,549.0,,,0,yes,,2026-11-13T06:02:41.278124,https://talkmore.no/privat/abonnement/
-NO,NOK,Talkmore,consumer,mobile,Ubegrenset Maksimal,standard,9999.0,649.0,,,0,yes,,2026-11-13T06:02:41.302023,https://talkmore.no/privat/abonnement/
-NO,NOK,Telenor,business,mobile,Bedrift Basis,standard,,119.0,,,24,no (ex-VAT),,2026-11-13T06:00:27.281222,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Bedrift Basis Tale,standard,200.0,289.0,,,24,no (ex-VAT),,2026-11-13T06:00:27.281202,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 5GB,standard,5.0,329.0,,,24,no (ex-VAT),,2026-11-13T06:00:27.281238,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Bedrift Basis Data,standard,2.0,389.0,,,24,yes,,2026-11-13T06:00:27.281196,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 15GB,standard,15.0,439.0,,,24,no (ex-VAT),,2026-11-13T06:00:27.281233,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Bedrift Flyt 5,standard,5.0,509.0,,,24,yes,,2026-11-13T06:00:27.281191,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Bedrift Flyt 20,standard,20.0,609.0,,,24,yes,,2026-11-13T06:00:27.281185,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Bedrift Frihet Start,standard,100.0,659.0,,,24,yes,,2026-11-13T06:00:27.281171,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Bedrift Flyt 50,standard,50.0,659.0,,,24,yes,,2026-11-13T06:00:27.281179,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Bedrift Frihet,standard,100.0,709.0,,,24,yes,,2026-11-13T06:00:27.281152,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 75GB,standard,75.0,829.0,,,24,no (ex-VAT),,2026-11-13T06:00:27.281228,https://www.telenor.no/bedrift/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat S,standard,8.0,299.0,,,0,yes,,2026-11-13T06:00:15.193954,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Forskudd 2 GB,standard,2.0,329.0,,,0,yes,,2026-11-13T06:00:15.193927,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat M,standard,15.0,349.0,,,0,yes,,2026-11-13T06:00:15.193948,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Forskudd 8 GB,standard,8.0,379.0,,,0,yes,,2026-11-13T06:00:15.193922,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Fast 5 GB,standard,5.0,399.0,,,0,yes,,2026-11-13T06:00:15.193916,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat L,standard,50.0,549.0,,,0,yes,,2026-11-13T06:00:15.193943,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd Hytte 10,standard,,599.0,,,0,yes,,2026-11-13T06:00:15.194242,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Ubegrenset Enkel,standard,9999.0,619.0,,,0,yes,,2026-11-13T06:00:15.193907,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd Hytte 30,standard,,669.0,,,0,yes,,2026-11-13T06:00:15.194249,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd Hytte 100,standard,,699.0,,,0,yes,,2026-11-13T06:00:15.194257,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat XL,standard,100.0,799.0,,,0,yes,,2026-11-13T06:00:15.193938,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Ubegrenset Maksimal,standard,9999.0,849.0,,,0,yes,,2026-11-13T06:00:15.193888,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 50,standard,,898.0,,,0,yes,,2026-11-13T06:00:15.194202,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 100,standard,,998.0,,,0,yes,,2026-11-13T06:00:15.194216,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat XXL,standard,200.0,999.0,,,0,yes,,2026-11-13T06:00:15.193933,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 250,standard,,1098.0,,,0,yes,,2026-11-13T06:00:15.194225,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 500,standard,,1248.0,,,0,yes,,2026-11-13T06:00:15.194233,https://www.telenor.no/mobilabonnement/
-NO,NOK,Telia,business,mobile,Rask,standard,9999.0,699.0,649.0,,24,no (ex-VAT),,2026-11-13T06:00:56.823222,https://www.telia.no/bedrift/mobilabonnement/telia-ubegrenset/
-NO,NOK,Telia,business,mobile,Max - Fri fart,standard,9999.0,799.0,749.0,,24,no (ex-VAT),,2026-11-13T06:00:56.823240,https://www.telia.no/bedrift/mobilabonnement/telia-ubegrenset/
-NO,NOK,Telia,consumer,mobile,Junior 1 GB,young,1.0,129.0,99.0,,0,yes,,2026-11-13T06:00:32.128817,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,Junior 10 GB,young,10.0,229.0,199.0,,0,yes,,2026-11-13T06:00:32.128832,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,3 GB,standard,3.0,299.0,269.0,,0,yes,,2026-11-13T06:00:32.128765,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,Ung 10 GB,young,10.0,349.0,,,0,yes,,2026-11-13T06:00:32.128801,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,15 GB,standard,15.0,399.0,369.0,,0,yes,,2026-11-13T06:00:32.128782,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,Telia X Ung,young,9999.0,449.0,,,0,yes,,2026-11-13T06:00:32.128720,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,Telia X Start,standard,9999.0,549.0,449.0,,0,yes,,2026-11-13T06:00:32.128677,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,Telia X Basis,standard,9999.0,599.0,499.0,,0,yes,,2026-11-13T06:00:32.128695,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,Telia X Max,standard,9999.0,699.0,599.0,,0,yes,,2026-11-13T06:00:32.128702,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,Telia X Max Pluss,standard,9999.0,799.0,699.0,,0,yes,,2026-11-13T06:00:32.128708,https://www.telia.no/mobilabonnement/
-NO,NOK,Telia,consumer,mobile,Telia X + Viaplay Premium,standard,9999.0,1148.0,1048.0,,0,yes,,2026-11-13T06:00:32.128714,https://www.telia.no/mobilabonnement/
-NO,NOK,ice,consumer,mobile,5 GB,standard,5.0,199.0,,,0,yes,,2026-11-13T06:03:03.698244,https://www.ice.no/mobilabonnement/
-NO,NOK,ice,consumer,mobile,50 GB,standard,50.0,299.0,,,0,yes,,2026-11-13T06:03:00.648654,https://www.ice.no/mobilabonnement/
-NO,NOK,ice,consumer,mobile,18 GB,standard,18.0,299.0,,,0,yes,,2026-11-13T06:03:03.673489,https://www.ice.no/mobilabonnement/
-NO,NOK,ice,consumer,mobile,iceMax,standard,9999.0,399.0,,,0,yes,,2026-11-13T06:03:00.623141,https://www.ice.no/mobilabonnement/
-NO,NOK,ice,consumer,mobile,iceMax med Netflix,standard,9999.0,449.0,,,0,yes,,2026-11-13T06:03:00.598450,https://www.ice.no/mobilabonnement/
-SE,SEK,Starlink,consumer,broadband,Residential - 100 Mbps,standard,9999.0,370.0,,,0,yes,,2026-11-13T06:02:14.461586,https://www.starlink.com/se/service-plans
-SE,SEK,Starlink,consumer,broadband,Roam - 100GB,standard,100.0,510.0,,,0,yes,,2026-11-13T06:02:14.461594,https://www.starlink.com/se/service-plans
-SE,SEK,Starlink,consumer,broadband,Residential - 200 Mbps,standard,9999.0,585.0,,,0,yes,,2026-11-13T06:02:14.461579,https://www.starlink.com/se/service-plans
-SE,SEK,Starlink,consumer,broadband,Residential - Max,standard,9999.0,800.0,,,0,yes,,2026-11-13T06:02:14.461560,https://www.starlink.com/se/service-plans
-SE,SEK,Starlink,consumer,broadband,Roam - Unlimited,standard,9999.0,1020.0,,,0,yes,,2026-11-13T06:02:14.461600,https://www.starlink.com/se/service-plans
+FI,EUR,Elisa,consumer,mobile,Elisa Mini 10M Liittymäturva,standard,9999,20.99,,,0,yes,,2026-11-14T06:05:03.855055,https://elisa.fi/kauppa/puhelinliittymat
+FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 20M Liittymäturva,standard,9999,30.99,27.99,12,12,yes,,2026-11-14T06:05:04.315771,https://elisa.fi/kauppa/puhelinliittymat
+FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 150M Liittymäturva,standard,9999,35.99,33.99,12,12,yes,,2026-11-14T06:05:04.774244,https://elisa.fi/kauppa/puhelinliittymat
+FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 400M Liittymäturva,standard,9999,42.99,34.99,24,24,yes,,2026-11-14T06:05:02.026869,https://elisa.fi/kauppa/puhelinliittymat
+FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 600M Liittymäturva,standard,9999,45.99,38.99,24,24,yes,,2026-11-14T06:05:02.491956,https://elisa.fi/kauppa/puhelinliittymat
+FI,EUR,Elisa,consumer,mobile,Elisa Huoleton 5G+ 1000M Liittymäturva,standard,9999,53.99,50.99,24,24,yes,,2026-11-14T06:05:02.955770,https://elisa.fi/kauppa/puhelinliittymat
+FI,EUR,Elisa,consumer,mobile,Elisa Premium 5.5G Liittymäturva,standard,9999,60.0,,,0,yes,,2026-11-14T06:05:03.406250,https://elisa.fi/kauppa/puhelinliittymat
+FI,EUR,Giga Mobiili,consumer,mobile,Pikkujärki,standard,9999,23.99,21.99,12,12,yes,,2026-11-14T06:05:05.500949,https://www.gigamobiili.fi/fi/subscriptions
+FI,EUR,Giga Mobiili,consumer,mobile,Perusjärki,standard,9999,26.99,24.99,12,12,yes,,2026-11-14T06:05:05.500981,https://www.gigamobiili.fi/fi/subscriptions
+FI,EUR,Giga Mobiili,consumer,mobile,Arkijärki,standard,9999,28.99,26.99,12,12,yes,,2026-11-14T06:05:05.501001,https://www.gigamobiili.fi/fi/subscriptions
+FI,EUR,Giga Mobiili,consumer,mobile,Huippujärki,standard,9999,39.99,37.99,12,12,yes,,2026-11-14T06:05:05.501019,https://www.gigamobiili.fi/fi/subscriptions
+FI,EUR,Moi,consumer,mobile,Kevyt 4G 50,standard,8.0,15.0,,,0,yes,,2026-11-14T06:05:04.903913,https://www.moi.fi/
+FI,EUR,Moi,consumer,mobile,Fiksu 4G 100,standard,9999.0,21.0,,,0,yes,,2026-11-14T06:05:04.903899,https://www.moi.fi/
+FI,EUR,Moi,consumer,mobile,Teho 5G 200,standard,9999.0,23.0,,,0,yes,,2026-11-14T06:05:04.903918,https://www.moi.fi/
+FI,EUR,Moi,consumer,mobile,Nopea 5G 450,standard,9999.0,26.0,,,0,yes,,2026-11-14T06:05:04.903921,https://www.moi.fi/
+FI,EUR,Moi,consumer,mobile,Super 5G 1000,standard,9999.0,38.0,,,0,yes,,2026-11-14T06:05:04.903925,https://www.moi.fi/
+FI,EUR,Telia,consumer,mobile,Säästö 4G 20M,standard,9999,21.99,,,0,yes,,2026-11-14T06:04:56.140606,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
+FI,EUR,Telia,consumer,mobile,Rehti 4G 50M,standard,9999,29.99,27.99,12,12,yes,,2026-11-14T06:04:56.142221,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
+FI,EUR,Telia,consumer,mobile,Rehti 4G 150M,standard,9999,32.99,,,0,yes,,2026-11-14T06:04:56.143805,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
+FI,EUR,Telia,consumer,mobile,Rehti 5G 400M,standard,9999,38.99,34.99,12,12,yes,,2026-11-14T06:04:56.133949,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
+FI,EUR,Telia,consumer,mobile,Rehti 5G 600M,standard,9999,44.99,38.99,12,12,yes,,2026-11-14T06:04:56.135758,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
+FI,EUR,Telia,consumer,mobile,Rehti 5G 1000M,standard,9999,49.99,48.99,12,12,yes,,2026-11-14T06:04:56.137532,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
+FI,EUR,Telia,consumer,mobile,Rehti Premium,standard,9999,59.99,58.99,12,12,yes,,2026-11-14T06:04:56.138480,https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx
+NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 150/150 (150/150 Mbps),standard,9999.0,919.0,,,0,yes,,2026-11-14T06:02:52.907286,https://bergenfiber.no/fiber-internett/
+NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 250/250 (250/250 Mbps),standard,9999.0,1019.0,,,0,yes,,2026-11-14T06:02:52.916476,https://bergenfiber.no/fiber-internett/
+NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 500/500  (500/500 Mbps),standard,9999.0,1119.0,,,0,yes,,2026-11-14T06:02:52.925284,https://bergenfiber.no/fiber-internett/
+NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 750/750 (750/750 Mbps),standard,9999.0,1169.0,,,0,yes,,2026-11-14T06:02:52.933732,https://bergenfiber.no/fiber-internett/
+NO,NOK,BergenFiber,consumer,broadband,Altibox Fiberbredbånd 1000/1000 (1000/1000 Mbps),standard,9999.0,1419.0,,,0,yes,,2026-11-14T06:02:52.942334,https://bergenfiber.no/fiber-internett/
+NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd Fritid 100/100,standard,9999.0,599.0,,,0,yes,,2026-11-14T06:03:03.901311,https://www.lyse.no/altibox/priser
+NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 150/150,standard,9999.0,919.0,,,0,yes,,2026-11-14T06:03:00.426949,https://www.lyse.no/altibox/priser
+NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd Fritid 500/500,standard,9999.0,949.0,,,0,yes,,2026-11-14T06:03:04.584491,https://www.lyse.no/altibox/priser
+NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 250/250,standard,9999.0,1019.0,,,0,yes,,2026-11-14T06:03:01.124834,https://www.lyse.no/altibox/priser
+NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 500/500,standard,9999.0,1119.0,,,0,yes,,2026-11-14T06:03:01.824238,https://www.lyse.no/altibox/priser
+NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 750/750,standard,9999.0,1169.0,,,0,yes,,2026-11-14T06:03:02.521796,https://www.lyse.no/altibox/priser
+NO,NOK,Lyse,consumer,broadband,Altibox Fiberbredbånd 1000/1000,standard,9999.0,1419.0,,,0,yes,,2026-11-14T06:03:03.204342,https://www.lyse.no/altibox/priser
+NO,NOK,Starlink,consumer,broadband,Residential - 100 Mbps,standard,9999.0,370.0,,,0,yes,,2026-11-14T06:03:05.581603,https://www.starlink.com/no/service-plans
+NO,NOK,Starlink,consumer,broadband,Roam - 100GB,standard,100.0,505.0,,,0,yes,,2026-11-14T06:03:05.581611,https://www.starlink.com/no/service-plans
+NO,NOK,Starlink,consumer,broadband,Residential - 200 Mbps,standard,9999.0,585.0,,,0,yes,,2026-11-14T06:03:05.581578,https://www.starlink.com/no/service-plans
+NO,NOK,Starlink,consumer,broadband,Residential - Max,standard,9999.0,850.0,,,0,yes,,2026-11-14T06:03:05.581595,https://www.starlink.com/no/service-plans
+NO,NOK,Starlink,consumer,broadband,Roam - Unlimited,standard,9999.0,1065.0,,,0,yes,,2026-11-14T06:03:05.581617,https://www.starlink.com/no/service-plans
+NO,NOK,Telenor,consumer,broadband,Bredbånd 150,standard,,1048.0,,,0,yes,,2026-11-14T06:01:49.067936,https://www.telenor.no/vilkar/prisliste-tv-og-bredband/
+NO,NOK,Telenor,consumer,broadband,Bredbånd 500,standard,,1148.0,,,0,yes,,2026-11-14T06:01:49.067958,https://www.telenor.no/vilkar/prisliste-tv-og-bredband/
+NO,NOK,Telenor,consumer,broadband,Bredbånd 1000,standard,,1398.0,,,0,yes,,2026-11-14T06:01:49.067969,https://www.telenor.no/vilkar/prisliste-tv-og-bredband/
+NO,NOK,Telia,consumer,broadband,100 Mbit/s,standard,9999.0,958.0,799.0,6,0,yes,,2026-11-14T06:01:53.937728,https://www.telia.no/internett/bredband/
+NO,NOK,Telia,consumer,broadband,250 Mbit/s,standard,9999.0,1058.0,899.0,6,0,yes,,2026-11-14T06:01:53.937802,https://www.telia.no/internett/bredband/
+NO,NOK,Telia,consumer,broadband,500 Mbit/s,standard,9999.0,1158.0,999.0,6,0,yes,,2026-11-14T06:01:53.937815,https://www.telia.no/internett/bredband/
+NO,NOK,Telia,consumer,broadband,750 Mbit/s,standard,9999.0,1258.0,1099.0,6,0,yes,,2026-11-14T06:01:53.937839,https://www.telia.no/internett/bredband/
+NO,NOK,Telia,consumer,broadband,100 Mbit/s + TV,standard,9999.0,1456.0,1049.0,6,0,yes,,2026-11-14T06:01:53.937784,https://www.telia.no/internett/bredband/
+NO,NOK,Telia,consumer,broadband,2500 Mbit/s,standard,9999.0,1458.0,1299.0,6,0,yes,,2026-11-14T06:01:53.937860,https://www.telia.no/internett/bredband/
+NO,NOK,Telia,consumer,broadband,500 Mbit/s + TV,standard,9999.0,1556.0,1149.0,6,0,yes,,2026-11-14T06:01:53.937827,https://www.telia.no/internett/bredband/
+NO,NOK,Telia,consumer,broadband,2500 Mbit/s + TV,standard,9999.0,1856.0,1449.0,6,0,yes,,2026-11-14T06:01:53.937849,https://www.telia.no/internett/bredband/
+NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 150/150 Mbps,standard,9999.0,899.0,,,0,yes,,2026-11-14T06:02:08.872075,https://vikenfiber.no/produkter/
+NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 250/250 Mbps,standard,9999.0,999.0,,,0,yes,,2026-11-14T06:02:08.881719,https://vikenfiber.no/produkter/
+NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 500/500 Mbps,standard,9999.0,1109.0,,,0,yes,,2026-11-14T06:02:08.891401,https://vikenfiber.no/produkter/
+NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 750/750 Mbps,standard,9999.0,1159.0,,,0,yes,,2026-11-14T06:02:08.899385,https://vikenfiber.no/produkter/
+NO,NOK,VikenFiber,consumer,broadband,Altibox Fiberbredbånd 1000/1000 Mbps,standard,9999.0,1419.0,,,0,yes,,2026-11-14T06:02:08.908446,https://vikenfiber.no/produkter/
+NO,NOK,OneCall,consumer,mobile,God - 10 Mbit/s,standard,0.01,10.0,,,0,yes,,2026-11-14T06:03:41.809267,https://onecall.no/mobilabonnement/folkepakka
+NO,NOK,OneCall,consumer,mobile,Bedre - 40 Mbit/s,standard,0.04,40.0,,,0,yes,,2026-11-14T06:03:44.321649,https://onecall.no/mobilabonnement/folkepakka
+NO,NOK,OneCall,consumer,mobile,1 GB,standard,1.0,149.0,,,0,yes,,2026-11-14T06:03:38.223653,https://onecall.no/mobilabonnement/folkepakka
+NO,NOK,OneCall,consumer,mobile,6 GB,standard,6.0,199.0,,,0,yes,,2026-11-14T06:03:38.238452,https://onecall.no/mobilabonnement/folkepakka
+NO,NOK,OneCall,consumer,mobile,12 GB,standard,12.0,249.0,,,0,yes,,2026-11-14T06:03:38.252464,https://onecall.no/mobilabonnement/folkepakka
+NO,NOK,OneCall,consumer,mobile,25 GB,standard,25.0,299.0,,,0,yes,,2026-11-14T06:03:38.281135,https://onecall.no/mobilabonnement/folkepakka
+NO,NOK,OneCall,consumer,mobile,100 GB,standard,100.0,349.0,,,0,yes,,2026-11-14T06:03:38.208260,https://onecall.no/mobilabonnement/folkepakka
+NO,NOK,OneCall,consumer,mobile,Fri data,standard,9999.0,399.0,,,0,yes,,2026-11-14T06:03:39.296580,https://onecall.no/mobilabonnement/folkepakka
+NO,NOK,OneCall,consumer,mobile,Fri Fart - Opptil 1000 Mbit/s,standard,1.0,1000.0,,,0,yes,,2026-11-14T06:03:46.834548,https://onecall.no/mobilabonnement/folkepakka
+NO,NOK,Talkmore,consumer,mobile,1 GB,standard,1.0,249.0,,,0,yes,,2026-11-14T06:03:33.288477,https://talkmore.no/privat/abonnement/
+NO,NOK,Talkmore,consumer,mobile,5 GB,standard,5.0,299.0,,,0,yes,,2026-11-14T06:03:33.308844,https://talkmore.no/privat/abonnement/
+NO,NOK,Talkmore,consumer,mobile,10 GB,standard,10.0,349.0,,,0,yes,,2026-11-14T06:03:33.266163,https://talkmore.no/privat/abonnement/
+NO,NOK,Talkmore,consumer,mobile,18 GB,standard,18.0,399.0,,,0,yes,,2026-11-14T06:03:33.329417,https://talkmore.no/privat/abonnement/
+NO,NOK,Talkmore,consumer,mobile,30 GB,standard,30.0,449.0,,,0,yes,,2026-11-14T06:03:33.349036,https://talkmore.no/privat/abonnement/
+NO,NOK,Talkmore,consumer,mobile,Ubegrenset Normal,standard,9999.0,549.0,,,0,yes,,2026-11-14T06:03:33.368780,https://talkmore.no/privat/abonnement/
+NO,NOK,Talkmore,consumer,mobile,Ubegrenset Maksimal,standard,9999.0,649.0,,,0,yes,,2026-11-14T06:03:33.388727,https://talkmore.no/privat/abonnement/
+NO,NOK,Telenor,business,mobile,Bedrift Basis,standard,,119.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137272,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Bedrift Basis Tale,standard,200.0,289.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137253,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 5GB,standard,5.0,329.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137287,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Bedrift Basis Data,standard,2.0,389.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137248,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 15GB,standard,15.0,439.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137282,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Bedrift Flyt 5,standard,5.0,509.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137242,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Bedrift Flyt 20,standard,20.0,609.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137236,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Bedrift Frihet Start,standard,100.0,659.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137223,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Bedrift Flyt 50,standard,50.0,659.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137230,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Bedrift Frihet,standard,100.0,709.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137205,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,business,mobile,Mobilt Bredbånd 75GB,standard,75.0,829.0,,,24,no (ex-VAT),,2026-11-14T06:01:19.137277,https://www.telenor.no/bedrift/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat S,standard,8.0,299.0,,,0,yes,,2026-11-14T06:01:05.955678,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Forskudd 2 GB,standard,2.0,329.0,,,0,yes,,2026-11-14T06:01:05.955646,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat M,standard,15.0,349.0,,,0,yes,,2026-11-14T06:01:05.955673,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Forskudd 8 GB,standard,8.0,379.0,,,0,yes,,2026-11-14T06:01:05.955640,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Fast 5 GB,standard,5.0,399.0,,,0,yes,,2026-11-14T06:01:05.955634,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat L,standard,50.0,549.0,,,0,yes,,2026-11-14T06:01:05.955668,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd Hytte 10,standard,,599.0,,,0,yes,,2026-11-14T06:01:05.955961,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Ubegrenset Enkel,standard,9999.0,619.0,,,0,yes,,2026-11-14T06:01:05.955625,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd Hytte 30,standard,,669.0,,,0,yes,,2026-11-14T06:01:05.955969,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd Hytte 100,standard,,699.0,,,0,yes,,2026-11-14T06:01:05.955980,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat XL,standard,100.0,799.0,,,0,yes,,2026-11-14T06:01:05.955663,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Ubegrenset Maksimal,standard,9999.0,849.0,,,0,yes,,2026-11-14T06:01:05.955604,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 50,standard,,898.0,,,0,yes,,2026-11-14T06:01:05.955920,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 100,standard,,998.0,,,0,yes,,2026-11-14T06:01:05.955935,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Mobilt Bredbånd Privat XXL,standard,200.0,999.0,,,0,yes,,2026-11-14T06:01:05.955652,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 250,standard,,1098.0,,,0,yes,,2026-11-14T06:01:05.955944,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telenor,consumer,mobile,Trådløst Bredbånd 500,standard,,1248.0,,,0,yes,,2026-11-14T06:01:05.955952,https://www.telenor.no/mobilabonnement/
+NO,NOK,Telia,business,mobile,Rask,standard,9999.0,699.0,649.0,,24,no (ex-VAT),,2026-11-14T06:01:48.704458,https://www.telia.no/bedrift/mobilabonnement/telia-ubegrenset/
+NO,NOK,Telia,business,mobile,Max - Fri fart,standard,9999.0,799.0,749.0,,24,no (ex-VAT),,2026-11-14T06:01:48.704474,https://www.telia.no/bedrift/mobilabonnement/telia-ubegrenset/
+NO,NOK,Telia,consumer,mobile,Junior 1 GB,young,1.0,129.0,99.0,,0,yes,,2026-11-14T06:01:24.181972,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,Junior 10 GB,young,10.0,229.0,199.0,,0,yes,,2026-11-14T06:01:24.181988,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,3 GB,standard,3.0,299.0,269.0,,0,yes,,2026-11-14T06:01:24.181918,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,Ung 10 GB,young,10.0,349.0,,,0,yes,,2026-11-14T06:01:24.181956,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,15 GB,standard,15.0,399.0,369.0,,0,yes,,2026-11-14T06:01:24.181936,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,Telia X Ung,young,9999.0,449.0,,,0,yes,,2026-11-14T06:01:24.181862,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,Telia X Start,standard,9999.0,549.0,449.0,,0,yes,,2026-11-14T06:01:24.181817,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,Telia X Basis,standard,9999.0,599.0,499.0,,0,yes,,2026-11-14T06:01:24.181836,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,Telia X Max,standard,9999.0,699.0,599.0,,0,yes,,2026-11-14T06:01:24.181843,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,Telia X Max Pluss,standard,9999.0,799.0,699.0,,0,yes,,2026-11-14T06:01:24.181849,https://www.telia.no/mobilabonnement/
+NO,NOK,Telia,consumer,mobile,Telia X + Viaplay Premium,standard,9999.0,1148.0,1048.0,,0,yes,,2026-11-14T06:01:24.181856,https://www.telia.no/mobilabonnement/
+NO,NOK,ice,consumer,mobile,5 GB,standard,5.0,199.0,,,0,yes,,2026-11-14T06:03:55.603462,https://www.ice.no/mobilabonnement/
+NO,NOK,ice,consumer,mobile,50 GB,standard,50.0,299.0,,,0,yes,,2026-11-14T06:03:52.537561,https://www.ice.no/mobilabonnement/
+NO,NOK,ice,consumer,mobile,18 GB,standard,18.0,299.0,,,0,yes,,2026-11-14T06:03:55.572653,https://www.ice.no/mobilabonnement/
+NO,NOK,ice,consumer,mobile,iceMax,standard,9999.0,399.0,,,0,yes,,2026-11-14T06:03:52.512170,https://www.ice.no/mobilabonnement/
+NO,NOK,ice,consumer,mobile,iceMax med Netflix,standard,9999.0,449.0,,,0,yes,,2026-11-14T06:03:52.486943,https://www.ice.no/mobilabonnement/
+SE,SEK,Starlink,consumer,broadband,Residential - 100 Mbps,standard,9999.0,370.0,,,0,yes,,2026-11-14T06:03:06.529151,https://www.starlink.com/se/service-plans
+SE,SEK,Starlink,consumer,broadband,Roam - 100GB,standard,100.0,510.0,,,0,yes,,2026-11-14T06:03:06.529159,https://www.starlink.com/se/service-plans
+SE,SEK,Starlink,consumer,broadband,Residential - 200 Mbps,standard,9999.0,585.0,,,0,yes,,2026-11-14T06:03:06.529143,https://www.starlink.com/se/service-plans
+SE,SEK,Starlink,consumer,broadband,Residential - Max,standard,9999.0,800.0,,,0,yes,,2026-11-14T06:03:06.529123,https://www.starlink.com/se/service-plans
+SE,SEK,Starlink,consumer,broadband,Roam - Unlimited,standard,9999.0,1020.0,,,0,yes,,2026-11-14T06:03:06.529165,https://www.starlink.com/se/service-plans
 SE,SEK,Tele2,consumer,mobile,15 GB,standard,15.0,329.0,199.0,24,0,yes,,2026-11-09T06:03:09.564344,https://www.tele2.se/mobilabonnemang
 SE,SEK,Tele2,consumer,mobile,Obegränsad,standard,9999.0,479.0,399.0,24,24,yes,,2026-11-09T06:03:09.564356,https://www.tele2.se/mobilabonnemang
 SE,SEK,Tele2,consumer,mobile,Obegränsad Max,standard,9999.0,519.0,449.0,24,24,yes,,2026-11-09T06:03:09.564361,https://www.tele2.se/mobilabonnemang
-SE,SEK,Telenor,business,mobile,7 GB,standard,7.0,329.0,279.0,24,24,no (ex-VAT),,2026-11-13T06:03:14.605425,https://www.telenor.se/foretag/handla/abonnemang/
-SE,SEK,Telenor,business,mobile,15 GB,standard,15.0,369.0,319.0,24,24,no (ex-VAT),,2026-11-13T06:03:14.575309,https://www.telenor.se/foretag/handla/abonnemang/
-SE,SEK,Telenor,business,mobile,Obegränsat,standard,9999.0,449.0,349.0,24,24,no (ex-VAT),,2026-11-13T06:03:14.549479,https://www.telenor.se/foretag/handla/abonnemang/
-SE,SEK,Telenor,business,mobile,Obegränsat Premium,standard,9999.0,599.0,499.0,24,24,no (ex-VAT),,2026-11-13T06:03:14.521522,https://www.telenor.se/foretag/handla/abonnemang/
-SE,SEK,Telenor,consumer,mobile,10 GB,standard,10.0,299.0,,,0,yes,,2026-11-13T06:03:09.048259,https://www.telenor.se/handla/mobilabonnemang/
-SE,SEK,Telenor,consumer,mobile,25 GB,standard,25.0,399.0,329.0,24,24,yes,,2026-11-13T06:03:09.031436,https://www.telenor.se/handla/mobilabonnemang/
-SE,SEK,Telenor,consumer,mobile,Obegränsat,standard,9999.0,499.0,349.0,24,24,yes,,2026-11-13T06:03:09.004640,https://www.telenor.se/handla/mobilabonnemang/
-SE,SEK,Telenor,consumer,mobile,Obegränsat Plus,standard,9999.0,629.0,469.0,24,24,yes,,2026-11-13T06:03:08.970199,https://www.telenor.se/handla/mobilabonnemang/
+SE,SEK,Telenor,business,mobile,7 GB,standard,7.0,329.0,279.0,24,24,no (ex-VAT),,2026-11-14T06:04:06.203066,https://www.telenor.se/foretag/handla/abonnemang/
+SE,SEK,Telenor,business,mobile,15 GB,standard,15.0,369.0,319.0,24,24,no (ex-VAT),,2026-11-14T06:04:06.172521,https://www.telenor.se/foretag/handla/abonnemang/
+SE,SEK,Telenor,business,mobile,Obegränsat,standard,9999.0,449.0,349.0,24,24,no (ex-VAT),,2026-11-14T06:04:06.140926,https://www.telenor.se/foretag/handla/abonnemang/
+SE,SEK,Telenor,business,mobile,Obegränsat Premium,standard,9999.0,599.0,499.0,24,24,no (ex-VAT),,2026-11-14T06:04:06.112449,https://www.telenor.se/foretag/handla/abonnemang/
+SE,SEK,Telenor,consumer,mobile,10 GB,standard,10.0,299.0,,,0,yes,,2026-11-14T06:04:00.816134,https://www.telenor.se/handla/mobilabonnemang/
+SE,SEK,Telenor,consumer,mobile,25 GB,standard,25.0,399.0,329.0,24,24,yes,,2026-11-14T06:04:00.799522,https://www.telenor.se/handla/mobilabonnemang/
+SE,SEK,Telenor,consumer,mobile,Obegränsat,standard,9999.0,499.0,349.0,24,24,yes,,2026-11-14T06:04:00.773788,https://www.telenor.se/handla/mobilabonnemang/
+SE,SEK,Telenor,consumer,mobile,Obegränsat Plus,standard,9999.0,629.0,469.0,24,24,yes,,2026-11-14T06:04:00.744608,https://www.telenor.se/handla/mobilabonnemang/
 SE,SEK,Telia,consumer,mobile,"Mobil Rörlig 0,2",standard,0.2,129.0,,,0,yes,,2026-11-10T06:03:29.841221,https://www.telia.se/mobilabonnemang
 SE,SEK,Telia,consumer,mobile,10 GB,standard,10.0,299.0,,,0,yes,,2026-11-10T06:03:29.796344,https://www.telia.se/mobilabonnemang
 SE,SEK,Telia,consumer,mobile,20 GB,standard,20.0,399.0,,,0,yes,,2026-11-10T06:03:29.758991,https://www.telia.se/mobilabonnemang
@@ -172,8 +172,8 @@ SE,SEK,Telia,consumer,mobile,"Obegränsad Plus Netflix, HBO Max, Disney+",standa
 SE,SEK,Tre,consumer,mobile,6 GB,standard,6.0,229.0,,,24,yes,,2026-11-11T06:04:03.266395,https://www.tre.se/handla/mobilabonnemang
 SE,SEK,Tre,consumer,mobile,25 GB,standard,25.0,329.0,,,24,yes,,2026-11-11T06:04:03.247672,https://www.tre.se/handla/mobilabonnemang
 SE,SEK,Tre,consumer,mobile,Obegränsad surf,standard,9999.0,429.0,,,24,yes,,2026-11-11T06:04:03.227841,https://www.tre.se/handla/mobilabonnemang
-SE,SEK,Vimla,consumer,mobile,5 GB,standard,5.0,120.0,20.0,3,0,yes,,2026-11-13T06:04:03.777596,https://vimla.se/bestall/
-SE,SEK,Vimla,consumer,mobile,10 GB,standard,10.0,170.0,20.0,3,0,yes,,2026-11-13T06:04:03.806719,https://vimla.se/bestall/
-SE,SEK,Vimla,consumer,mobile,15 GB,standard,15.0,210.0,20.0,3,0,yes,,2026-11-13T06:04:03.833320,https://vimla.se/bestall/
-SE,SEK,Vimla,consumer,mobile,25 GB,standard,25.0,260.0,20.0,3,0,yes,,2026-11-13T06:04:03.859559,https://vimla.se/bestall/
-SE,SEK,Vimla,consumer,mobile,100 GB,standard,100.0,370.0,20.0,3,0,yes,,2026-11-13T06:04:03.884049,https://vimla.se/bestall/
+SE,SEK,Vimla,consumer,mobile,5 GB,standard,5.0,120.0,20.0,3,0,yes,,2026-11-14T06:04:55.402148,https://vimla.se/bestall/
+SE,SEK,Vimla,consumer,mobile,10 GB,standard,10.0,170.0,20.0,3,0,yes,,2026-11-14T06:04:55.431848,https://vimla.se/bestall/
+SE,SEK,Vimla,consumer,mobile,15 GB,standard,15.0,210.0,20.0,3,0,yes,,2026-11-14T06:04:55.460540,https://vimla.se/bestall/
+SE,SEK,Vimla,consumer,mobile,25 GB,standard,25.0,260.0,20.0,3,0,yes,,2026-11-14T06:04:55.489214,https://vimla.se/bestall/
+SE,SEK,Vimla,consumer,mobile,100 GB,standard,100.0,370.0,20.0,3,0,yes,,2026-11-14T06:04:55.514884,https://vimla.se/bestall/
