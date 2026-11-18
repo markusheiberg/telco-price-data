@@ -1,4 +1,7 @@
 changed_on,run_id,country,currency,brand,segment_type,product_type,plan_name,kind,field,old,new,delta,is_campaign
+2026-11-18,20261118T060014Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,modified,campaign_price_nok,449.0,349.0,-100.0,yes
+2026-11-18,20261118T060014Z,SE,SEK,Tele2,consumer,mobile,Obegränsad,modified,campaign_price_nok,399.0,299.0,-100.0,yes
+2026-11-18,20261118T060014Z,SE,SEK,Tele2,consumer,mobile,15 GB,modified,binding_months,0,24,24,no
 2026-11-17,20261117T060011Z,NO,NOK,Telia,consumer,mobile,Junior 10 GB,modified,campaign_price_nok,199.0,114.0,-85.0,yes
 2026-11-17,20261117T060011Z,NO,NOK,Telia,consumer,mobile,Junior 1 GB,modified,campaign_price_nok,99.0,64.0,-35.0,yes
 2026-11-13,20261113T060009Z,SE,SEK,Telenor,consumer,mobile,Obegränsat Plus,modified,campaign_price_nok,529.0,469.0,-60.0,yes
