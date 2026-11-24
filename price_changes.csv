@@ -1,4 +1,10 @@
 changed_on,run_id,country,currency,brand,segment_type,product_type,plan_name,kind,field,old,new,delta,is_campaign
+2026-11-24,20261124T060057Z,SE,SEK,Vimla,consumer,mobile,5 GB,modified,campaign_months,3,4,1,yes
+2026-11-24,20261124T060057Z,SE,SEK,Vimla,consumer,mobile,25 GB,modified,campaign_months,3,4,1,yes
+2026-11-24,20261124T060057Z,SE,SEK,Vimla,consumer,mobile,15 GB,modified,campaign_months,3,4,1,yes
+2026-11-24,20261124T060057Z,SE,SEK,Vimla,consumer,mobile,100 GB,modified,campaign_months,3,4,1,yes
+2026-11-24,20261124T060057Z,SE,SEK,Vimla,consumer,mobile,10 GB,modified,campaign_months,3,4,1,yes
+2026-11-24,20261124T060057Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max,replaced,plan_name,Obegränsad Max (24 mån bindning),Obegränsad Max,,yes
 2026-11-21,20261121T060011Z,SE,SEK,Tele2,consumer,mobile,Obegränsad Max (24 mån bindning),replaced,plan_name,Obegränsad Max,Obegränsad Max (24 mån bindning),,yes
 2026-11-19,20261119T060107Z,SE,SEK,Tre,consumer,mobile,Obegränsad surf,modified,monthly_price_nok,429.0,299.0,-130.0,no
 2026-11-19,20261119T060107Z,SE,SEK,Tre,consumer,mobile,Obegränsad surf,modified,binding_months,24,0,-24,no
